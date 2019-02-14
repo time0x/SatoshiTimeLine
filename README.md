@@ -4,20 +4,13 @@ Satoshi Time Line 中本聪时间线
 
 # 说明
 
-`CSW` 代指 
-[Craig Steven Wright(Craig S Wright)](https://en.wikipedia.org/wiki/Craig_Steven_Wright).
+`CSW` 代指 [Craig Steven Wright(Craig S Wright)](https://en.wikipedia.org/wiki/Craig_Steven_Wright).
 
-`DK` 指代 [Dave Kleiman](https://en.wikipedia.org/wiki/Dave_Kleiman).
+`DK` 指代 [Dave Kleiman](https://en.wikipedia.org/wiki/Dave_Kleiman) 计算机取证专家
 
- > 计算机取证专家
+`DR` 指代 [David Rees](https://en.wikipedia.org/wiki/David_Rees_(mathematician)) 是埃克塞特大学的纯数学教授
 
-`DR` 指代 [David Rees](https://en.wikipedia.org/wiki/David_Rees_(mathematician)).
-
-> 是埃克塞特大学的纯数学教授
-
-`HAL` 指代 [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).
-
-> 比特币早期贡献者
+`HAL` 指代 [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)) 比特币早期贡献者
 
 `ATO` 指澳大利亚税务局
 
@@ -126,8 +119,6 @@ Satoshi Time Line 中本聪时间线
   <p>GSSP-.NET -GIAC安全软件程序员.NET</p>
   <p>GPEN- GIAC渗透测试仪</p>
 </details>
-
-
 
 **`2005-00-00`**  2005-2008，CSW 获得了信息系统安全硕士（MInfoSysSec），IT安全 - 查尔斯特大学[已经被查尔斯特大学向福布斯杂志印证](#)
 
