@@ -1,5 +1,5 @@
 <p align="center">
-Satoshi Time Line 中本聪时间线
+In satoshi we trust !
 </p>
 
 # 说明
@@ -24,9 +24,9 @@ Satoshi Time Line 中本聪时间线
 
 # ～2003
 
-**`1985-00-00`**  1985年开始在KMart从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
+**`1985-00-00`**  1985年开始在 KMart 从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
 
-**`1989-00-00`** CSW 开始昆士兰大学了B.Eng / BSci双学位 [来源](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
+**`1989-00-00`** CSW 开始昆士兰大学了 B.Eng/BSci 双学位 [来源](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
 
 **`1992-00-00`** CSW 由于得了癌症退出了昆士兰大学。[来源一](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
 ，[接受了癌症晚期治疗，失去了当时的学位](https://medium.com/@craig_10243/the-fury-fb603e344d20)
@@ -51,7 +51,7 @@ Satoshi Time Line 中本聪时间线
 **`1997-03-04`** Timothy C. May 文章《无法追踪的数字现金，信息市场和BlackNet》([Untraceable Digital Cash, Information Markets, and BlackNet
 ](http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm)) 
 
-**`1997-3-28`** Adam Back 发明Hashcash [来源](http://www.hashcash.org/papers/)
+**`1997-03-28`** Adam Back 发明Hashcash [来源](http://www.hashcash.org/papers/)
 
 
 **`1997-04-00`**  CSW 开始在澳洲证券交易所工作 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
@@ -85,7 +85,7 @@ Satoshi Time Line 中本聪时间线
 
 **`2003-00-00`**  DK 和 CSW 在2003年一次在线密码论坛上相遇。两人都对网络安全，数字取证和金钱未来有着长期的兴趣
 
-- 来源：DK 亲戚起诉 CSW 案件卷宗
+- 来源：[DK 亲戚起诉 CSW 案件卷宗](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)
 
 **`2003-08-00`** CSW 卸任 DeMorgan 公司的[常务董事(Managing Director)](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
 
@@ -95,9 +95,16 @@ Satoshi Time Line 中本聪时间线
 
 **`2004-08-15`**  HAL 发布了rpow，[可重复使用的工作证明](https://web.archive.org/web/20041202180250/http://rpow.net:80/)
 
-**`2004-10-00`**  2004-10至2009-01 在会计师事务所BDO Kendalls 任职 Associate Director (Risk Services)。[来源一](https://archive.vn/Q66Gl#selection-1153.0-1156.0)，2008年出版的[《Overwriting Hard Drive Data: The Great Wiping Controversy》](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_21) 证实了这点。
+**`2004-10-00`**  2004-10至2009-01 在会计师事务所BDO Kendalls 任职 Associate Director (Risk Services)。[链接1](https://archive.vn/Q66Gl#selection-1153.0-1156.0)，[链接2](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)，2008年出版的[《Overwriting Hard Drive Data: The Great Wiping Controversy》](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_21) 证实了这点。
 
 # 2005
+
+
+**`2005-00-00`**  2005-2008，CSW 获得了信息系统安全硕士（MInfoSysSec），IT安全 - 查尔斯特大学[已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
+
+**`2005-00-00`**  CSW 获得统计硕士（MSTAT），定量统计学 - 纽卡斯尔大学 [需印证](https://archive.vn/Q66Gl)
+
+> 但是从 CSW 之后的论文中可见其水平
 
 **`2005-04-25`**  2005-4-25至2011-07-24 获得了 20+ 认证[官网可查](https://www.giac.org/certified-professional/craig-wright/107335)
 
@@ -123,12 +130,6 @@ Satoshi Time Line 中本聪时间线
   <p>GSSP-.NET -GIAC安全软件程序员.NET</p>
   <p>GPEN- GIAC渗透测试仪</p>
 </details>
-
-**`2005-00-00`**  2005-2008，CSW 获得了信息系统安全硕士（MInfoSysSec），IT安全 - 查尔斯特大学[已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
-
-**`2005-00-00`**  CSW 获得统计硕士（MSTAT），定量统计学 - 纽卡斯尔大学 [需印证](https://archive.vn/Q66Gl)
-
-> 但是从 CSW 之后的论文中可见其水平
 
 **`2005-12-25`**  Ian Grigg 发布了 [三重记帐法](http://iang.org/papers/triple_entry.html)
 
@@ -212,6 +213,8 @@ Satoshi Time Line 中本聪时间线
 
 # 2009
 
+**``2009-00-00``** 2009-2010 CSW 获得[MSD，系统开发硕士 - 查尔斯特大学]()
+
 **``2009-01-08``** 中本聪发布[比特币v0.1版本](http://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)(原链接已经失效)
 
 > HAL 在[bitcointaik论坛](https://bitcointalk.org/index.php?topic=68121.0)中公布了0.1.0版本，[s3上的备份](https://satoshi.nakamotoinstitute.org/code/)，[github 保存的版本](https://github.com/trottier/original-bitcoin)
@@ -238,9 +241,7 @@ Satoshi Time Line 中本聪时间线
 
 **``2009-11-22``** 中本聪论坛[第一帖](https://bitcointalk.org/index.php?topic=5.0)
 
-**``2009-11-26``** 感恩节 DK 告诉Ira(DK弟弟)，他正在和一个富有的外国人一起创造“数字货币”，也就是CSW。[来源：DK亲戚起诉 CSW 案件卷宗]()
-
-**``2009-00-00``** 2009-2010 CSW 获得[MSD，系统开发硕士 - 查尔斯特大学]()
+**``2009-11-26``** 感恩节 DK 告诉 Ira(DK弟弟)，他正在和一个富有的外国人一起创造“数字货币”，也就是 CSW。[来源：DK亲戚起诉 CSW 案件卷宗](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)
 
 # 2010
 
@@ -249,6 +250,8 @@ Satoshi Time Line 中本聪时间线
 **``2010-04-06``** CSW 的公司De Morgan 搁置破产 [Craig Stephen Wright和Anor V De Morgan信息安全系统有限公司(清算中)](https://www.comcourts.gov.au/file/FEDERAL/P/SYG746/2010/order_list)
 
 **``2010-06-00``** 2010年中，中本聪将比特币源代码库的控制权转交给了 Gavin Andresen
+
+**``2010-10-00``** CSW 的第一次婚姻于[2010年10月结束](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
 
 **``2010-11-30``** CSW 发表[《开发安全嵌入式软件的经济学》](https://ro.ecu.edu.au/ism/102/)，发表于第8届澳大利亚信息安全管理会议论文集。
 
@@ -267,10 +270,10 @@ Satoshi Time Line 中本聪时间线
 - 这个是csw 和 DK 一起建立的公司，用 DK 注册的，
 - ATO 与 CSW 澳大利亚公司的代表的会议记录: CSW 与 DK 一起创办了W＆K Info Defense LLC（W＆K）。W&K公司经营比特币挖矿和软件开发/研究业务。
 - CSW 在09年创办 Information Defense Pty Ltd
-- 来源：[DK 亲戚起诉 CSW 案件卷宗]()
+- 来源：[DK 亲戚起诉 CSW 案件卷宗](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)
 
 
-**``2011-4-11``** CSW 作为贡献者之一的著作[《官方（ISC）2®ISSMP®CBK®指南》](https://www.amazon.com/Official-Guide-CISSP-ISSMP-Press/dp/1420094432)出版
+**``2011-04-11``** CSW 作为贡献者之一的著作[《官方（ISC）2®ISSMP®CBK®指南》](https://www.amazon.com/Official-Guide-CISSP-ISSMP-Press/dp/1420094432)出版
 
 > 亚马逊对于csw 的介绍佐证了他在查尔斯斯图尔特大学的诸多硕士学位和进行数字取证的讲课
 
@@ -278,7 +281,7 @@ Satoshi Time Line 中本聪时间线
 
 **``2011-05-00``** 2011-05至2014-05 CSW 是查尔斯图尔特大学的兼职学者 [被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
-**``2011-06-140``** CSW 被 [GICSR](https://web.archive.org/web/20160326175801/http://www.gicsr.org/) 任命为亚太区总监，副总裁。[资料1](https://www.itmasters.edu.au/wp-content/uploads/2013/03/hunted_must.pdf)，[资料2](https://www.theaustralian.com.au/business/technology/hunted-must-become-hunter-to-combat-cyber-crime/news-story/5e4ec0b09d8121f5431cc6b0c84db5ac)，[资料3](https://archive.vn/Q66Gl#selection-2231.0-2231.9)
+**``2011-06-14``** CSW 被 [GICSR](https://web.archive.org/web/20160326175801/http://www.gicsr.org/) 任命为亚太区总监，副总裁。[资料1](https://www.itmasters.edu.au/wp-content/uploads/2013/03/hunted_must.pdf)，[资料2](https://www.theaustralian.com.au/business/technology/hunted-must-become-hunter-to-combat-cyber-crime/news-story/5e4ec0b09d8121f5431cc6b0c84db5ac)，[资料3](https://archive.vn/Q66Gl#selection-2231.0-2231.9)
 
 > GICSR 是由私营部门领导的非营利性全球网络安全+研究所
 
@@ -330,7 +333,16 @@ Satoshi Time Line 中本聪时间线
 
 # 2014
 
-**``2014-2-12``** CSW 计划[今年开设第一家基于比特币的银行](https://www.businessinsider.com.au/aussie-technologists-are-opening-the-worlds-first-bitcoin-based-bank-this-year-2014-2)，但是当时澳大利亚ATO尚未澄清它将如何处理与比特币相关的商品及服务税
+**``2014-02-12``** CSW 在悉尼参加讨论比特币了 ，[Bitcoin IS at Sydney's Informa Conference 2014](https://www.youtube.com/watch?v=1PtAqNpEm7w&t=0s&index=6&list=PLT6LGqh34WMBUFn-NBpiT1UQpd-xnpDkc)
+
+**``2014-02-12``** CSW 计划[今年开设第一家基于比特币的银行](https://www.businessinsider.com.au/aussie-technologists-are-opening-the-worlds-first-bitcoin-based-bank-this-year-2014-2)，但是当时澳大利亚ATO尚未澄清它将如何处理与比特币相关的商品及服务税
+
+**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=4GuqlQvFYJo)，[视频2](https://www.youtube.com/watch?v=d0ttVAPKgTA)，[视频3](https://www.youtube.com/watch?v=yB2YVJg6f1s)，[中译](https://v.youku.com/v_show/id_XMzk1MTU0OTMwOA==.html?spm=a2hzp.8244740.0.0)。CSW 视频中描述的即为18年宣布的 MetaNet
+
+**``2014-08-20``** ATO裁定，对于资本利得税而言，[加密货币应被视为资产而非货币](https://www.abc.net.au/news/2014-08-20/bitcoin-will-not-be-taxed-as-money-ato-says/5683974)。所以 CSW 无法继续在澳大利亚建造比特币商业帝国。
+
+**``2014-08-26``** CCTV NEWS [采访查尔斯特大学研究员 CSW 关于黑客大战
+](https://www.youtube.com/watch?v=fAyWT3nljBI)
 
 **``2014-08-26``** CSW 在比特币博览会的采访[视频](https://www.youtube.com/watch?v=4GuqlQvFYJo&feature=youtu.be)，谈了 BlackNet（也就是后来的 MetaNet）
 
@@ -354,8 +366,6 @@ Satoshi Time Line 中本聪时间线
 
 **``2014-10-17``** CSW 注册了 [tuliptrading.net](https://domainbigdata.com/nj/gUU3kOJtEevLy9DnpdYUgw) 域名
 
-**``2014-08-20``** ATO裁定，对于资本利得税而言，[加密货币应被视为资产而非货币](https://www.abc.net.au/news/2014-08-20/bitcoin-will-not-be-taxed-as-money-ato-says/5683974)。所以 CSW 无法继续在澳大利亚建造比特币商业帝国。
-
 **``2014-11-00``** CSW 的公司 Hotwire 进行[清算](https://medium.com/@craig_10243/the-fury-fb603e344d20)。[2016-03-10被上传的清算报告](https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
 
 #2015
@@ -363,7 +373,7 @@ Satoshi Time Line 中本聪时间线
 **``2015-05-19``** CSW DeMorgan Ltd. 公司通过AusIndustry 成功申请了5400万澳元的[税收优惠](https://www.businessinsider.com.au/the-australian-who-may-have-invented-bitcoin-claimed-to-have-landed-54m-in-taxpayer-funded-rebates-2015-12)，[链接2](https://www.grantcentral.com.au/big-numbers-involved-in-rd-tax-incentive/)
 > 这意味着DeMorgan能够向AusIndustry证明它在2014/2015财政年度花费了1.2亿美元用于研发活动
 
-**``2015-5-29``** CSW 将 C01N 和 Cloudcroft 所谓的旗舰超级计算机Tulip Trading 合并为一台高性能计算机 - [新的 C01N](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)
+**``2015-05-29``** CSW 将 C01N 和 Cloudcroft 所谓的旗舰超级计算机Tulip Trading 合并为一台高性能计算机 - [新的 C01N](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)
 
 **``2015-06-04``** CSW 和 Jon Matonis 在澳大利亚第一次[见面](https://medium.com/@jonmatonis/how-i-met-satoshi-96e85727dc5a)，Jon Matonis 感觉 csw 就是中本聪
 
@@ -460,15 +470,24 @@ Satoshi Time Line 中本聪时间线
 
 **``2017-06-30``** CSW 在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY&list=PLT6LGqh34WMBUFn-NBpiT1UQpd-xnpDkc&index=21)(必看)，[内容翻译](http://8btc.com/thread-63899-1-1.html)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
 
+**``2017-09-21``** CSW 在Bitkan的“塑造未来”Blockchain全球峰会 - 香港技术会议上发表[演讲](https://www.youtube.com/watch?v=GUg2mocV9TI)
+
+
 # 2018
 
-**``2018-02-26``** [Dvaid Kleiman 的亲戚告 CSW 案](https://www.coindesk.com/overstocks-tzero-begins-distributing-its-security-token-to-investors)，[卷宗1](下载地址：https://zh.scribd.com/document/372465601/Complaint#download&from_embed),[卷宗2](https://www.morrisoncohen.com/siteFiles/files/2018_02_14%20-%20Kleiman%20v_%20Wright.pdf)
+**``2018-02-26``** [Dvaid Kleiman 的亲戚告 CSW 案](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)，[卷宗1](下载地址：https://zh.scribd.com/document/372465601/Complaint#download&from_embed),[卷宗2](https://www.morrisoncohen.com/siteFiles/files/2018_02_14%20-%20Kleiman%20v_%20Wright.pdf)
+
+> 等待结案，再分析证据。
 
 **``2018-03-00``** Jon Matonis 离开 nchain，因为[不同意为比特币现金全力以赴的策略](https://web.archive.org/web/20190124065610/https://twitter.com/jonmatonis/status/994472382973792257)。
 
 **``2018-06-28``** 2018-06-28 之后的某个时间：14年黑客事件：论坛提醒中本聪信息泄漏的回复被删除。
 
 > 账户本人或论坛管理员才可以删除
+
+**``2018-08-07``** CSW 谈论到我谈论比特币的历史，图灵完整性，比特币的人工智能，加密货币和闪电网络的法律含义，以及更多。[视频](https://www.youtube.com/watch?v=oA_q1OC-Aos)
+
+**``2018-08-07``** CSW 关于图灵完整性，采矿激励和自私采矿的[采访](https://www.youtube.com/watch?v=whbzIGML1qY)
 
 **``2018-11-29``** 中本聪在P2P基金会网站更新状态：["nour"](https://web.archive.org/web/20181212002627/http://p2pfoundation.ning.com/profiles/status/show?id=2003008:Status:69295)，nour 在阿拉伯语中是光明的意思。
 
