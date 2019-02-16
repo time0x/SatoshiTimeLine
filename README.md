@@ -219,6 +219,8 @@ In satoshi we trust !
 
 > HAL 在[bitcointaik论坛](https://bitcointalk.org/index.php?topic=68121.0)中公布了0.1.0版本，[s3上的备份](https://satoshi.nakamotoinstitute.org/code/)，[github 保存的版本](https://github.com/trottier/original-bitcoin)
 
+> 2017-09-23 CSW 最早[公开表示](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)：[比特币原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有扑克游戏，其中有 poker(扑克), deal me out(出牌), fold(弃牌), call(跟注), raise(加注)等术语。
+
 **``2009-01-10``** CSW 博客宣称[发布比特币beta版本](https://web.archive.org/web/20140602022810/http://gse-compliance.blogspot.com.au/2009_01_04_archive.html)
 
 - blogspot 这个博客系统是可以修改时间的
@@ -262,6 +264,8 @@ In satoshi we trust !
 # 2011
 
 **``2011-00-00``** 世界级黑客 [Dan Kaminsky](https://dankaminsky.com) 试图破解比特币代码，[但是失败了](https://www.businessinsider.com/dan-kaminsky-highlights-flaws-bitcoin-2013-4)。
+
+**``2011-00-00``** 为了继续 CSW 的研究工作，DK 和 CSW 向一些国家比如哥斯达黎加出售了用于合法赌博的代码。DK 承受了最大的风险，因为赌博在澳大利亚是非法的。[链接](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
 
 > Kaminsky表示：“他是一位世界级的程序员，对C ++编程语言有着深刻的理解，”他说。“他了解经济学，密码学和点对点网络。有一群人为此工作，或者这个人才是天才”
 
@@ -472,6 +476,7 @@ In satoshi we trust !
 
 **``2017-09-21``** CSW 在Bitkan的“塑造未来”Blockchain全球峰会 - 香港技术会议上发表[演讲](https://www.youtube.com/watch?v=GUg2mocV9TI)
 
+**``2017-09-23``** CSW 最早公开表示比特币[原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有[扑克游戏](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)
 
 # 2018
 
