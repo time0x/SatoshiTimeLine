@@ -24,11 +24,11 @@ In satoshi we trust !
 
 # ～2003
 
-**`1985-00-00`**  1985年开始在 KMart 从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
+**`1985-XX-XX`**  1985年开始在 KMart 从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
 
-**`1989-00-00`** CSW 开始昆士兰大学了 B.Eng/BSci 双学位 [来源](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
+**`1989-XX-XX`** CSW 开始昆士兰大学了 B.Eng/BSci 双学位 [来源](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
 
-**`1992-00-00`** CSW 由于得了癌症退出了昆士兰大学。[来源一](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
+**`1992-XX-XX`** CSW 由于得了癌症退出了昆士兰大学。[来源一](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
 ，[接受了癌症晚期治疗，失去了当时的学位](https://medium.com/@craig_10243/the-fury-fb603e344d20)
 
 **`1993-11-16`** Timothy C. May 有记录的 BlackNet 首次出现
@@ -64,9 +64,9 @@ In satoshi we trust !
 
 **`1998-11-00`** Wei Dai 发布 [b-money](http://www.weidai.com/bmoney.txt)
 
-**`1998-00-00`** CSW 在1998-2003获得神学博士-比较宗教和古典研究 [待印证](https://archive.vn/Q66Gl#selection-9947.0-9950.0)
+**`1998-XX-XX`** CSW 在1998-2003获得神学博士-比较宗教和古典研究 [待印证](https://archive.vn/Q66Gl#selection-9947.0-9950.0)
 
-**`1999-00-00`** CSW 设计架构了世界上第一个在线赌场Lasseter's Online 上线
+**`1999-XX-XX`** CSW 设计架构了世界上第一个在线赌场Lasseter's Online 上线
 
 > 世界上第一个获得政府监管和许可的在线赌场.CSW 任职信息系统经理。[在2001年就拥有160,000名国际客户](http://edition.cnn.com/2001/WORLD/asiapcf/auspac/06/29/aust.gaming/index.html)
 
@@ -74,16 +74,16 @@ In satoshi we trust !
 - [来源二](http://www.sans.org/instructors/craig-wright)
 - [04年官网](https://web.archive.org/web/20040715041957/http://www.lasseters.com.au:80/)
 
-**`2000-00-00`** CSW 开始参与了许多博彩业务 [需印证](https://medium.com/@craig_10243/the-fury-fb603e344d20)
+**`2000-XX-XX`** CSW 开始参与了许多博彩业务 [需印证](https://medium.com/@craig_10243/the-fury-fb603e344d20)
 
-**`2000-00-00`** CSW 设计并管理了许多保护澳大利亚证券交易所的系统的实施 [需印证](https://www.theaustralian.com.au/business/technology/hunted-must-become-hunter-to-combat-cyber-crime/news-story/5e4ec0b09d8121f5431cc6b0c84db5ac?nk=906956441decfcc17c48d87337856b35-1547103254)
+**`2000-XX-XX`** CSW 设计并管理了许多保护澳大利亚证券交易所的系统的实施 [需印证](https://www.theaustralian.com.au/business/technology/hunted-must-become-hunter-to-combat-cyber-crime/news-story/5e4ec0b09d8121f5431cc6b0c84db5ac?nk=906956441decfcc17c48d87337856b35-1547103254)
 
 # 2003
 
-**`2003-00-00`** 2003-2004 CSW 完成了网络与系统管理硕士（MNSA）- IT网络- 查尔斯特大学（CSU） 
+**`2003-XX-XX`** 2003-2004 CSW 完成了网络与系统管理硕士（MNSA）- IT网络- 查尔斯特大学（CSU） 
 > [已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
-**`2003-00-00`**  DK 和 CSW 在2003年一次在线密码论坛上相遇。两人都对网络安全，数字取证和金钱未来有着长期的兴趣
+**`2003-XX-XX`**  DK 和 CSW 在2003年一次在线密码论坛上相遇。两人都对网络安全，数字取证和金钱未来有着长期的兴趣
 
 - 来源：[DK 亲戚起诉 CSW 案件卷宗](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)
 
@@ -91,7 +91,7 @@ In satoshi we trust !
 
 # 2004
 
-**`2004-00-00`**  2004-2006，CSW 获得了管理硕士（MMgt）- 管理，财务 - 查尔斯特大学，[已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
+**`2004-XX-XX`**  2004-2006，CSW 获得了管理硕士（MMgt）- 管理，财务 - 查尔斯特大学，[已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
 **`2004-08-15`**  HAL 发布了rpow，[可重复使用的工作证明](https://web.archive.org/web/20041202180250/http://rpow.net:80/)
 
@@ -100,9 +100,9 @@ In satoshi we trust !
 # 2005
 
 
-**`2005-00-00`**  2005-2008，CSW 获得了信息系统安全硕士（MInfoSysSec），IT安全 - 查尔斯特大学[已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
+**`2005-XX-XX`**  2005-2008，CSW 获得了信息系统安全硕士（MInfoSysSec），IT安全 - 查尔斯特大学[已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
-**`2005-00-00`**  CSW 获得统计硕士（MSTAT），定量统计学 - 纽卡斯尔大学 [需印证](https://archive.vn/Q66Gl)
+**`2005-XX-XX`**  CSW 获得统计硕士（MSTAT），定量统计学 - 纽卡斯尔大学 [需印证](https://archive.vn/Q66Gl)
 
 > 但是从 CSW 之后的论文中可见其水平
 
@@ -135,7 +135,7 @@ In satoshi we trust !
 
 # 2006
 
-**`2006-00-00`**  根据澳大利亚公开记录，[ CSW 申请个人破产并被拒绝](https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692)
+**`2006-XX-XX`**  根据澳大利亚公开记录，[ CSW 申请个人破产并被拒绝](https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692)
 
 **`2006-03-22`**  CSW 在加密邮件列表讨论：[加密前签名和加密后签名](https://seclists.org/basics/2006/Mar/270)
 
@@ -143,9 +143,9 @@ In satoshi we trust !
 
 # 2007
 
-**`2007-00-00`**  CSW 和 DK 合著《CHFI官方学习指南（考试312-49）》出版 [来源一](https://www.sciencedirect.com/book/9781597491976/the-official-chfi-study-guide-exam-312-49#book-description)，[来源二](https://www.amazon.com/Official-Varsalone-Timothy-Syngress-Paperback/dp/B00E2RGHUE/)
+**`2007-XX-XX`**  CSW 和 DK 合著《CHFI官方学习指南（考试312-49）》出版 [来源一](https://www.sciencedirect.com/book/9781597491976/the-official-chfi-study-guide-exam-312-49#book-description)，[来源二](https://www.amazon.com/Official-Varsalone-Timothy-Syngress-Paperback/dp/B00E2RGHUE/)
 
-**`2007-00-00`**  中本聪：[自2007年开始设计比特币](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617)
+**`2007-XX-XX`**  中本聪：[自2007年开始设计比特币](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617)
 
 > 花了大量时间在研究设计比特币，那时候已经考虑未来探索方向：托管交易，保税合同，第三方仲裁，多方签名等
 
@@ -161,11 +161,11 @@ In satoshi we trust !
 
 # 2008
 
-**``2008-00-00``** CSW，DK 和 Shyaam Sundhar 合著了一篇论文 [《重写硬盘数据》](https://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf) - [在ICISS2008上发表并收录于计算机科学 系列讲义(LNCS，第5352卷)](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_21)
+**``2008-XX-XX``** CSW，DK 和 Shyaam Sundhar 合著了一篇论文 [《重写硬盘数据》](https://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf) - [在ICISS2008上发表并收录于计算机科学 系列讲义(LNCS，第5352卷)](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_21)
 
-**``2008-00-00``** CSW 在 SANS NS 2008拉斯维加斯发表文章《远程确定应用程序版本的高级方法》[Advanced Methods to remotely determine Application Versions](pdf:https://zh.scribd.com/presentation/358776685/Application-Determination)
+**``2008-XX-XX``** CSW 在 SANS NS 2008拉斯维加斯发表文章《远程确定应用程序版本的高级方法》[Advanced Methods to remotely determine Application Versions](pdf:https://zh.scribd.com/presentation/358776685/Application-Determination)
 
-**``2008-00-00``** CSW 在BDO的一次 [裁员中失去了的工作](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
+**``2008-XX-XX``** CSW 在BDO的一次 [裁员中失去了的工作](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
 
 > 此次裁员给了 CSW 一笔补偿费，所以能在2009年继续工作
 
@@ -213,7 +213,7 @@ In satoshi we trust !
 
 # 2009
 
-**``2009-00-00``** 2009-2010 CSW 获得[MSD，系统开发硕士 - 查尔斯特大学]()
+**``2009-XX-XX``** 2009-2010 CSW 获得[MSD，系统开发硕士 - 查尔斯特大学]()
 
 **``2009-01-08``** 中本聪发布[比特币v0.1版本](http://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)(原链接已经失效)
 
@@ -263,9 +263,9 @@ In satoshi we trust !
 
 # 2011
 
-**``2011-00-00``** 世界级黑客 [Dan Kaminsky](https://dankaminsky.com) 试图破解比特币代码，[但是失败了](https://www.businessinsider.com/dan-kaminsky-highlights-flaws-bitcoin-2013-4)。
+**``2011-XX-XX``** 世界级黑客 [Dan Kaminsky](https://dankaminsky.com) 试图破解比特币代码，[但是失败了](https://www.businessinsider.com/dan-kaminsky-highlights-flaws-bitcoin-2013-4)。
 
-**``2011-00-00``** 为了继续 CSW 的研究工作，DK 和 CSW 向一些国家比如哥斯达黎加出售了用于合法赌博的代码。DK 承受了最大的风险，因为赌博在澳大利亚是非法的。[链接](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
+**``2011-XX-XX``** 为了继续 CSW 的研究工作，DK 和 CSW 向一些国家比如哥斯达黎加出售了用于合法赌博的代码。DK 承受了最大的风险，因为赌博在澳大利亚是非法的。[链接](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
 
 > Kaminsky表示：“他是一位世界级的程序员，对C ++编程语言有着深刻的理解，”他说。“他了解经济学，密码学和点对点网络。有一群人为此工作，或者这个人才是天才”
 
