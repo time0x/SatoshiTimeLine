@@ -497,3 +497,9 @@ In satoshi we trust !
 **``2018-11-29``** 中本聪在P2P基金会网站更新状态：["nour"](https://web.archive.org/web/20181212002627/http://p2pfoundation.ning.com/profiles/status/show?id=2003008:Status:69295)，nour 在阿拉伯语中是光明的意思。
 
 **``2018-11-30``** CSW 发推阿拉伯语：[光线追逐黑暗 ](https://web.archive.org/web/20181201130457/https:/twitter.com/ProfFaustus/status/1068429958714937344)
+
+# 2019
+
+**``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称中本聪是自己曾经的笔名](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。
+
+> CSW 用中本聪的笔名完成了其在1997年开始的一个项目，这个项目是在澳大利亚政府的工业项目下提交的，该项目注册为 BlackNet，后改名 MetaNet。
