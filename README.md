@@ -207,13 +207,13 @@ In satoshi we trust !
 
 **``2008-11-09``** 比特币项目在开源项目社区资源SourceForge.net上注册。(无法确认准确性)
 
-**``2008-11-17``** 中本聪在加密邮件列表中表示：之前的1年半一直在完善代码 []()
+**``2008-11-17``** 中本聪在加密邮件列表中表示：之前的1年半一直在完善比特币代码 [暂缺]()
 
 **``2008-11-30``** CSW 完成了查尔斯斯图尔特大学的[信息系统安全硕士课程](https://web.archive.org/web/20151208225230/http://gse-compliance.blogspot.com/2008_11_30_archive.html)
 
 # 2009
 
-**``2009-XX-XX``** 2009-2010 CSW 获得[MSD，系统开发硕士 - 查尔斯特大学]()
+**``2009-XX-XX``** 2009 - 2010 CSW 获得了 [MSD，系统开发硕士 - 查尔斯特大学]()
 
 **``2009-01-08``** 中本聪发布[比特币v0.1版本](http://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html)(原链接已经失效)
 
@@ -268,9 +268,9 @@ In satoshi we trust !
 
 **``2011-XX-XX``** 世界级黑客 [Dan Kaminsky](https://dankaminsky.com) 试图破解比特币代码，[但是失败了](https://www.businessinsider.com/dan-kaminsky-highlights-flaws-bitcoin-2013-4)。
 
-**``2011-XX-XX``** 为了继续 CSW 的研究工作，DK 和 CSW 向一些国家比如哥斯达黎加出售了用于合法赌博的代码。DK 承受了最大的风险，因为赌博在澳大利亚是非法的。[链接](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
-
 > Kaminsky表示：“他是一位世界级的程序员，对C ++编程语言有着深刻的理解，”他说。“他了解经济学，密码学和点对点网络。有一群人为此工作，或者这个人才是天才”
+
+**``2011-XX-XX``** 为了继续 CSW 的研究工作，DK 和 CSW 向一些国家比如哥斯达黎加出售了用于合法赌博的代码。DK 承受了最大的风险，因为赌博在澳大利亚是非法的。[链接](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
 
 **``2011-02-14``** DK 在佛罗里达州成立了[W&K信息防御研究公司](https://www.manta.com/c/mr5pz3q/w-k-info-defense-research-llc)，[注册详情](http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=OfficerRegisteredAgentName&directionType=Initial&searchNameOrder=COINEXCHPTYLTD%20L110000199042&aggregateId=flal-l11000019904-dce79b55-176a-4442-93a7-3c8896316aa2&searchTerm=Coin-Exch%20Pty%20Ltd&listNameOrder=COINEXCHPTYLTD%20L110000199042)
 
@@ -286,15 +286,19 @@ In satoshi we trust !
 
 **``2011-04-23``** 中本聪发出最后一封邮件给 Gavin Andresen：“我已经转向做其他事情。比特币就放心交给加文和大家了。” [缺连接]()
 
-**``2011-05-XX``** 2011-05至2014-05 CSW 是查尔斯图尔特大学的兼职学者 [被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
+**``2011-04-27``** Gavin Andresen 发帖他将在6月份在美国情报界的新兴技术会议上[向 CIA 发表关于比特币的演讲](https://bitcointalk.org/?topic=6652.0)。具体时间是6月14日在中央情报局总部，兰利弗吉尼亚州。[它不向公众开放，会议仅针对美国情报界。](https://bitcointalk.org/index.php?topic=6652.msg146198#msg146198)
+
+**``2011-05-XX``** 2011-05 至 2014-05 CSW 是查尔斯图尔特大学的兼职学者 [被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
 **``2011-06-14``** CSW 被 [GICSR](https://web.archive.org/web/20160326175801/http://www.gicsr.org/) 任命为亚太区总监，副总裁。[资料1](https://www.itmasters.edu.au/wp-content/uploads/2013/03/hunted_must.pdf)，[资料2](https://www.theaustralian.com.au/business/technology/hunted-must-become-hunter-to-combat-cyber-crime/news-story/5e4ec0b09d8121f5431cc6b0c84db5ac)，[资料3](https://archive.vn/Q66Gl#selection-2231.0-2231.9)
 
 > GICSR 是由私营部门领导的非营利性全球网络安全+研究所
 
+**``2011-06-20``** Gavin Andresen 公布了 2011-06-14 在 CIA(美国中央情报局)发表的[演讲的PDF](https://bitcointalk.org/index.php?topic=6652.msg251755#msg251755)。
+
 **``2011-08-09``** CSW 在 [The Conversation](theconversation.com) 上发表文章：[LulzSec, Anonymous … freedom fighters or the new face of evil?](https://theconversation.com/lulzsec-anonymous-freedom-fighters-or-the-new-face-of-evil-2605#comment_6159)。这是 CSW 公开提到比特币最早记录。
 
-> 在此文章的评论中，csw列举了许多PayPal的替代品，提到了几次比特币:bit coins，digital coin.
+> 在此文章的评论中，CSW 列举了许多 PayPal 的替代品，提到了几次比特币：bit coins，digital coin.
 
 **``2011-12-05``** CSW 发表于第9届澳大利亚信息安全管理会议论文集[《Using checklists to make better best》](https://ro.ecu.edu.au/ism/133/)
 
@@ -308,7 +312,7 @@ In satoshi we trust !
 > 
 > 2014年4月15日	终止任命 David Kleiman为董事
 > 
-> 但是 但是 DK 已经在13年去世	
+> 但是 DK 已经在13年去世！！
 
 **``2012-11-03``** CSW [《领土行为和僵尸网络的经济学》](https://ro.ecu.edu.au/ism/149/)收录于第10届澳大利亚信息安全管理会议论文集
 
@@ -362,7 +366,7 @@ In satoshi we trust !
  - 它控制着世界500强中的[两台超级计算机](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794) - 排名世界第15位的 [CO1N](https://web.archive.org/web/20150717182621/http://top500.org/system/178468) 和排名第327位的[Sukuriputo Okane](https://web.archive.org/web/20170704110353/https://www.top500.org/system/178514)。
  - 之后 CSW 有几篇论文中提到了这台26W核心的超算[暂缺链接]()
  - 这个页面中显示2台超算属于 Tulip Trading(郁金香交易)
- - 这两台超算是SGI生产，但是[SGI否认是Cloudcroft从SGI购买](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)，应该是其他渠道购买
+ - 这两台超算是 SGI 生产，但是[SGI否认是Cloudcroft从SGI购买](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)，CSW [解释主要原因](https://www.economist.com/briefing/2016/05/02/craig-steven-wright-claims-to-be-satoshi-nakamoto-is-he)是他在 2015-05-29 将 SGI 的设备与竞争对手Supermicro的设备结合在一起。次要的是保密，因为这台机器所被用来测试他关于如何改进比特币的想法。[链接2暂缺]()
  - CSW 在15年使用超算 发过 ITMASTER 的免费课程 [Free Short Course: Programming on Supercomputers](https://www.youtube.com/watch?v=cfoFFyypJxs)
  
 **``2014-09-08``** 中本聪 satoshin@gmx.com 邮箱被自称黑客的人攻破 [链接1](https://web.archive.org/web/20180623222236/https://motherboard.vice.com/en_us/article/jp5dk8/the-satoshi-nakamoto-email-hacker-says-hes-negotiating-with-the-bitcoin-founder)，[链接2](https://bitcointalk.org/index.php?topic=775174.0)，[链接3](https://web.archive.org/web/20180601113854/https://pastebin.com/7gbPi8Qr)
@@ -386,6 +390,8 @@ In satoshi we trust !
 
 
 **``2015-07-15``** ITMastersCSU 官网的油管上传了 CSW 的超算课程：[免费短期课程：超级计算机编程](https://www.youtube.com/watch?v=cfoFFyypJxs)，有reddit 网友说这台超算是：C01N aka [缺链接]()
+
+**``2015-10-29``** CSW 在内华达州拉斯维加斯举行的比特币投资者大会上[发表演说](https://www.youtube.com/watch?v=LdvQTwjVmrE)
 
 **``2015-12-08``**  wired.com 首次报道了 [CSW 可能是中本聪](https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/)
 
@@ -429,7 +435,21 @@ In satoshi we trust !
 - 报告显示：CSW 有一个家庭信托： Wright Family Trust
 - 报告显示：CSW 当时除了郁金香信托外，应该还有巨量比特币，约19W枚
 
-**``2016-05-02``** Gavin Andresen 发表文章[认为 CSW 就是中本聪](http://gavinandresen.ninja/satoshi) 
+**``2016-05-02``** CSW 发表博客文章[《保罗萨特，签名和意义》](https://web.archive.org/web/20160502230334/http://www.drcraigwright.net/jean-paul-sartre-signing-significance/)承认自己是中本聪。在文章中 CSW 解释了如何验证一组加密密钥的过程。
+
+> 文章引用了保罗萨特拒绝诺贝文学奖的一句话：“If I sign myself Jean-Paul Sartre it is not the same thing as if I sign myself Jean-Paul Sartre, Nobel Prizewinner”
+– Jean-Paul Sartre, 1964
+
+> 萨特：“我拒绝荣誉称号，因为这会使人受到约束，而我一心只想做个自由人，一个作家应该真诚地做人”
+
+> CSW：If I sign Craig Wright, it is not the same as if I sign Craig Wright, Satoshi
+
+**``2016-05-02``** Gavin Andresen 发表文章[认为 CSW 就是中本聪](http://gavinandresen.ninja/satoshi)。[同时视频公开承认](https://www.youtube.com/watch?v=pNZyRMG2CjA)。CSW 使用[第1号块的私钥签名了 Gavin 给的文本](https://web.archive.org/web/20160505134827/https://www.reddit.com/r/btc/comments/4hfyyo/gavin_can_you_please_detail_all_parts_of_the/d2plygg)。
+
+> CSW 使用第1号块的私钥签名了 Gavin Andresen 给的文本： "Gavin's favorite number is eleven. CSW"。签名被复制到 Gavin 带到伦敦的新U盘上，然后在全新的笔记本电脑进行验证。安全起见，签名信息和电脑都未纰漏。
+
+**``2016-05-02``** Gavin Andresen [对 github 特币核心的访问权限被删除](https://twitter.com/peterktodd/status/727078284345917441?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E727078284345917441&ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2F4b9bd278f12ff1e67beb7002e4de6d07%3FpostId%3D8fd0a1bccb92)
+
 
 **``2016-05-02``** Ian Grigg 在博客发文：[认为 CSW 和 DK 都在中本聪团队](http://financialcryptography.com/mt/archives/001593.html)
 
@@ -445,14 +465,21 @@ In satoshi we trust !
 - CSW 不想承认自己是中本聪，因为他的家人，朋友，员工需要隐私，需要生活
 - 他表示这是最后一次登上电视媒体，关于中本聪的身份
 
-**``2016-05-02``** CSW 发表博客文章[《保罗萨特，签名和意义》](https://web.archive.org/web/20160502230334/http://www.drcraigwright.net/jean-paul-sartre-signing-significance/)承认自己是中本聪。
+**``2016-05-03``** 05-02号 CSW 博客公布的签名被质疑：CSW 使用了一个已经存在签名[链接1](http://archive.is/dNCUX)，[链接2](https://cointelegraph.com/news/why-craig-wright-is-not-satoshi-nakamoto?ref=5019)，而没有使用给 Gavin 展示的1号块的私钥。
 
-> 文章引用了保罗萨特拒绝诺贝文学奖的一句话：“If I sign myself Jean-Paul Sartre it is not the same thing as if I sign myself Jean-Paul Sartre, Nobel Prizewinner”
-– Jean-Paul Sartre, 1964
+**``2016-05-03``** Dan Kaminsky 向 Gavin Andresen 发邮件询问，Gavin Andresen 回复说：[“我和其他人一样对这个"证据"感到惊讶，但我还不知道到底发生了什么”](https://dankaminsky.com/2016/05/03/the-cryptographically-provable-con-man/)。
 
-> 萨特：“我拒绝荣誉称号，因为这会使人受到约束，而我一心只想做个自由人，一个作家应该真诚地做人”
+> Gavin 认同 CSW 是中本聪的文章一直在，没被删除过。
 
-> CSW：If I sign Craig Wright, it is not the same as if I sign Craig Wright, Satoshi
+**``2016-05-05``** CSW 的博客文章[《保罗萨特，签名和意义》](https://web.archive.org/web/20160505135432/http://www.drcraigwright.net/jean-paul-sartre-signing-significance/)内容更新：
+
+> 我相信我能做到。我相信我可以把隐姓埋名的日子抛在脑后。但是，随着本周事件的发展，以及我准备发表获得最早私钥的证明，我崩溃了。我没有勇气。我不能。
+
+> 谣言一开始，我的资格和性格就受到了攻击。 当这些指控被证明是假的时候，新的指控已经开始了。 我现在知道我不够坚强，不能承受这一切。
+
+> 我知道这个弱点会对那些支持我的人造成巨大的伤害，特别是对Jon Matonis 和 Gavin Andresen。我只能希望他们的荣誉和信誉不会因我的行动而受到不可弥补的损害。 他们没有受到欺骗，但我知道，世界现在永远不会相信这一点。 我只能说对不起。
+
+> 再见。
 
 **``2016-06-30``** Andrew O’Hagan 发表：the-satoshi-affair [中本聪事件](https://www.lrb.co.uk/v38/n13/andrew-ohagan/the-satoshi-affair)，[链接1](http://archive.is/kjuLi)，[中译](https://mp.weixin.qq.com/s/82q1zACKd063UKJyOb5oLQ)
 
@@ -503,6 +530,6 @@ In satoshi we trust !
 
 # 2019
 
-**``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称中本聪是自己曾经的笔名](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。
+**``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称自己曾经化名中本聪](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF中译](https://mp.weixin.qq.com/s/kQuUt_HoaenKTmh16hE7bg)
 
-> CSW 用中本聪的笔名完成了其在1997年开始的一个项目，这个项目是在澳大利亚政府的工业项目下提交的，该项目注册为 BlackNet，后改名 MetaNet。
+> CSW 用中本聪的化名完成一项工程，该工程始于1997年，作为澳大利亚工业计划的一部分，相关文件已向澳政府提交并注册，该计划初始命名为 Blacknet，后改名 MetaNet。
