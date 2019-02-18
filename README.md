@@ -38,7 +38,7 @@ In satoshi we trust !
 - [目前最早记录](https://www.alamut.com/subj/ideologies/manifestos/cryptoanarchist.html)
 - [BlackNet 最早定义 上传时间：1995-10-13](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt)
 
-**`1994-12-00`** Timothy C. May 发表文章《加密无政府状态和虚拟社区》(
+**`1994-12-XX`** Timothy C. May 发表文章《加密无政府状态和虚拟社区》(
 [Crypto Anarchy and Virtual Communities
 ](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html))提到了 BlackNet
 
@@ -54,15 +54,15 @@ In satoshi we trust !
 **`1997-03-28`** Adam Back 发明Hashcash [来源](http://www.hashcash.org/papers/)
 
 
-**`1997-04-00`**  CSW 开始在澳洲证券交易所工作 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
+**`1997-04-XX`**  CSW 开始在澳洲证券交易所工作 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
 
-**`1997-11-00`** CSW 创办 DeMorgan 公司担任常务董事(Managing Director)
+**`1997-11-XX`** CSW 创办 DeMorgan 公司担任常务董事(Managing Director)
 
 > 成为澳大利亚前150家公司的首批IT安全服务提供商之一，专注于托管安全和安全系统设计，专注于金融服务，银行和技术市场。
 
-**`1998-05-00`** CSW 离开 澳洲证券交易所 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
+**`1998-05-XX`** CSW 离开 澳洲证券交易所 [来源](https://archive.vn/Q66Gl#selection-1313.0-1313.17)
 
-**`1998-11-00`** Wei Dai 发布 [b-money](http://www.weidai.com/bmoney.txt)
+**`1998-11-XX`** Wei Dai 发布 [b-money](http://www.weidai.com/bmoney.txt)
 
 **`1998-XX-XX`** CSW 在1998-2003获得神学博士-比较宗教和古典研究 [待印证](https://archive.vn/Q66Gl#selection-9947.0-9950.0)
 
@@ -95,7 +95,7 @@ In satoshi we trust !
 
 **`2004-08-15`**  HAL 发布了rpow，[可重复使用的工作证明](https://web.archive.org/web/20041202180250/http://rpow.net:80/)
 
-**`2004-10-00`**  2004-10至2009-01 在会计师事务所BDO Kendalls 任职 Associate Director (Risk Services)。[链接1](https://archive.vn/Q66Gl#selection-1153.0-1156.0)，[链接2](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)，2008年出版的[《Overwriting Hard Drive Data: The Great Wiping Controversy》](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_21) 证实了这点。
+**`2004-10-XX`**  2004-10至2009-01 在会计师事务所BDO Kendalls 任职 Associate Director (Risk Services)。[链接1](https://archive.vn/Q66Gl#selection-1153.0-1156.0)，[链接2](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)，2008年出版的[《Overwriting Hard Drive Data: The Great Wiping Controversy》](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_21) 证实了这点。
 
 # 2005
 
@@ -149,13 +149,13 @@ In satoshi we trust !
 
 > 花了大量时间在研究设计比特币，那时候已经考虑未来探索方向：托管交易，保税合同，第三方仲裁，多方签名等
 
-**`2007-06-00`**  美国联邦政府对 [ e-Gold](https://en.wikipedia.org/wiki/E-gold) 提出指控，e-Gold是一家出售可兑换黄金的数字货币的公司。
+**`2007-06-XX`**  美国联邦政府对 [ e-Gold](https://en.wikipedia.org/wiki/E-gold) 提出指控，e-Gold是一家出售可兑换黄金的数字货币的公司。
 
 > 政府认为该项目启用了洗钱和儿童色情制品，因为用户无需提供彻底的身份证明。该公司的所有者因经营无牌转账业务而被判有罪，而首席执行官则被判处数月软禁。
 
 **`2007-11-28`**  CSW 在bolg中写到正在研究[一种以货币自动化的方法](https://web.archive.org/web/20151208225056/http://gse-compliance.blogspot.com/2007_11_25_archive.html)。待印证。
 
-**`2007-12-00`**  CSW 加入联合教会（新南威尔士州）信托协会有限公司联合金融服务受托人。([a trustee of the church](https://web.archive.org/web/20080719231045/http://www.unitingfinancial.com.au/resource/summer07-08_Lr.pdf))，[来源二](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
+**`2007-12-XX`**  CSW 加入联合教会（新南威尔士州）信托协会有限公司联合金融服务受托人。([a trustee of the church](https://web.archive.org/web/20080719231045/http://www.unitingfinancial.com.au/resource/summer07-08_Lr.pdf))，[来源二](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
 
 > 加入的具体时间应该早于07年
 
@@ -247,13 +247,16 @@ In satoshi we trust !
 
 # 2010
 
-**``2010-01-00``** 2010-1至2015-6 CSW 担任查尔斯特大学讲师，开发并推广数字取证硕士学位[被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)。
+**``2010-01-XX``** 2010-1至2015-6 CSW 担任查尔斯特大学讲师，开发并推广数字取证硕士学位[被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)。
 
 **``2010-04-06``** CSW 的公司De Morgan 搁置破产 [Craig Stephen Wright和Anor V De Morgan信息安全系统有限公司(清算中)](https://www.comcourts.gov.au/file/FEDERAL/P/SYG746/2010/order_list)
 
-**``2010-06-00``** 2010年中，中本聪将比特币源代码库的控制权转交给了 Gavin Andresen
+**``2010-06-XX``** 2010年中，中本聪将比特币源代码库的控制权转交给了 Gavin Andresen
 
-**``2010-10-00``** CSW 的第一次婚姻于[2010年10月结束](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
+**``2010-07-27``** [中本聪 github 账号作为 bitcoin 项目作者出现](https://github.com/bitcoin/bitcoin/commits/master?before=b72c787dc8f77dfeeab3774e9d84f03a066ff32e+19476)
+，暂时不清楚最初头像，但在之后的某个时间[头像修改为 DK](https://github.com/satoshinnakamoto)。
+
+**``2010-10-XX``** CSW 的第一次婚姻于[2010年10月结束](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
 
 **``2010-11-30``** CSW 发表[《开发安全嵌入式软件的经济学》](https://ro.ecu.edu.au/ism/102/)，发表于第8届澳大利亚信息安全管理会议论文集。
 
@@ -283,7 +286,7 @@ In satoshi we trust !
 
 **``2011-04-23``** 中本聪发出最后一封邮件给 Gavin Andresen：“我已经转向做其他事情。比特币就放心交给加文和大家了。” [缺连接]()
 
-**``2011-05-00``** 2011-05至2014-05 CSW 是查尔斯图尔特大学的兼职学者 [被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
+**``2011-05-XX``** 2011-05至2014-05 CSW 是查尔斯图尔特大学的兼职学者 [被查尔斯特大学对福布斯的声明所证实](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
 **``2011-06-14``** CSW 被 [GICSR](https://web.archive.org/web/20160326175801/http://www.gicsr.org/) 任命为亚太区总监，副总裁。[资料1](https://www.itmasters.edu.au/wp-content/uploads/2013/03/hunted_must.pdf)，[资料2](https://www.theaustralian.com.au/business/technology/hunted-must-become-hunter-to-combat-cyber-crime/news-story/5e4ec0b09d8121f5431cc6b0c84db5ac)，[资料3](https://archive.vn/Q66Gl#selection-2231.0-2231.9)
 
@@ -311,7 +314,7 @@ In satoshi we trust !
 
 # 2013
 
-**``2013-04-00``** 2013年4月初，CSW 与 DK 吵架，当时都缺钱，大量比特币并不好出售，[这是csw 最后一次与 DK 联系](https://medium.com/@craig_10243/the-fury-fb603e344d20)
+**``2013-04-XX``** 2013年4月初，CSW 与 DK 吵架，当时都缺钱，大量比特币并不好出售，[这是csw 最后一次与 DK 联系](https://medium.com/@craig_10243/the-fury-fb603e344d20)
 
 **``2013-04-26``** DK 被发现去世了 [警方勘查报告](https://assets.documentcloud.org/documents/2644004/INVESTIGATIVE-REPORT-13-0467.txt)
 
@@ -319,7 +322,7 @@ In satoshi we trust !
 
 **``2013-05-30``** CSW 注册了 [hotwirepe.com](https://domainbigdata.com/nj/gUU3kOJtEevLy9DnpdYUgw) 域名 
 
-**``2013-06-00``** CSW 创办了一家创业公司 Hotwire,用于建立 “Denariuz Bank”，第一家比特币银行
+**``2013-06-XX``** CSW 创办了一家创业公司 Hotwire,用于建立 “Denariuz Bank”，第一家比特币银行
 
 - CSW 称 Denariuz将从其支持者那里得到超过[10万比特币用于银行资金池](https://www.businessinsider.com.au/aussie-technologists-are-opening-the-worlds-first-bitcoin-based-bank-this-year-2014-2)
 - Hotwire的失败归因于2014年5月[Mt Gox比特币交易所的解体](https://www.businessinsider.com.au/revealed-the-ato-hit-suspected-bitcoin-creator-craig-steven-wrights-company-with-a-1-7-million-penalty-2015-12)
@@ -350,7 +353,7 @@ In satoshi we trust !
 
 **``2014-08-26``** CSW 在比特币博览会的采访[视频](https://www.youtube.com/watch?v=4GuqlQvFYJo&feature=youtu.be)，谈了 BlackNet（也就是后来的 MetaNet）
 
-**``2014-09-00``** CSW 开始任 [DeMorgan 的CEO](https://archive.vn/Q66Gl)
+**``2014-09-XX``** CSW 开始任 [DeMorgan 的CEO](https://archive.vn/Q66Gl)
 
 - 自该集团首家公司成立以来的六年中，我们已经完成了几个基于比特币的研究项目，这些项目已经持续，现在已经准备好开始商业化。
 - 该公司运行的两个HPC系统(超级计算机)以及开展的AI和机器学习活动
@@ -370,7 +373,7 @@ In satoshi we trust !
 
 **``2014-10-17``** CSW 注册了 [tuliptrading.net](https://domainbigdata.com/nj/gUU3kOJtEevLy9DnpdYUgw) 域名
 
-**``2014-11-00``** CSW 的公司 Hotwire 进行[清算](https://medium.com/@craig_10243/the-fury-fb603e344d20)。[2016-03-10被上传的清算报告](https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
+**``2014-11-XX``** CSW 的公司 Hotwire 进行[清算](https://medium.com/@craig_10243/the-fury-fb603e344d20)。[2016-03-10被上传的清算报告](https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
 
 #2015
 
@@ -407,7 +410,7 @@ In satoshi we trust !
 - 澳大利亚税务局表示，由于法律保密，它无法评论“任何个人或实体的税务事务”。
 - Hotwire 2014年的纳税申报表，以及约为340万美元的GST税收抵免。Hotwire的纳税申报表还可以获得550万美元的所得税退税，但Business Insider了解到这一点尚未由ATO发布。[链接](https://www.businessinsider.com.au/revealed-the-ato-hit-suspected-bitcoin-creator-craig-steven-wrights-company-with-a-1-7-million-penalty-2015-12)，[Hotwire清算报告](：https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
 
-**``2015-12-00``** 自从被曝光之后，CSW 收到匿名家人威胁，随即 Cloudcroft和DeMorgan 等网站，以及 CSW 的 LinkedIn 个人资料和推特账号，还有 email 等所有社交资料都被删除 []()
+**``2015-12-XX``** 自从被曝光之后，CSW 收到匿名家人威胁，随即 Cloudcroft和DeMorgan 等网站，以及 CSW 的 LinkedIn 个人资料和推特账号，还有 email 等所有社交资料都被删除 []()
 
 **``2015-12-11``** 福布斯网站发布文章：[认为 CSW 履历有误](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
@@ -417,7 +420,7 @@ In satoshi we trust !
 
 # 2016
 
-**``2016-03-00``** Jon Matonis 说3月下旬有个私下证明会，[CSW 会私下展示签名](http://themonetaryfuture.blogspot.com/2016/05/how-i-met-satoshi.html)
+**``2016-03-XX``** Jon Matonis 说3月下旬有个私下证明会，[CSW 会私下展示签名](http://themonetaryfuture.blogspot.com/2016/05/how-i-met-satoshi.html)
 
 **``2016-03-10``** CSW 公司 Hotwire 的[清算报告被上传](报告：https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
 
@@ -428,7 +431,7 @@ In satoshi we trust !
 
 **``2016-05-02``** Gavin Andresen 发表文章[认为 CSW 就是中本聪](http://gavinandresen.ninja/satoshi) 
 
-**``2016-05-02``** Ian Grigg 在博客发文：[认为 CSW 就是中本聪](http://financialcryptography.com/mt/archives/001593.html)
+**``2016-05-02``** Ian Grigg 在博客发文：[认为 CSW 和 DK 都在中本聪团队](http://financialcryptography.com/mt/archives/001593.html)
 
 **``2016-05-02``** Jon Matonis 发文[认为 CSW 就是中本聪](http://themonetaryfuture.blogspot.com/2016/05/how-i-met-satoshi.html)
 
@@ -484,7 +487,7 @@ In satoshi we trust !
 
 > 等待结案，再分析证据。
 
-**``2018-03-00``** Jon Matonis 离开 nchain，因为[不同意为比特币现金全力以赴的策略](https://web.archive.org/web/20190124065610/https://twitter.com/jonmatonis/status/994472382973792257)。
+**``2018-03-XX``** Jon Matonis 离开 nchain，因为[不同意为比特币现金全力以赴的策略](https://web.archive.org/web/20190124065610/https://twitter.com/jonmatonis/status/994472382973792257)。
 
 **``2018-06-28``** 2018-06-28 之后的某个时间：14年黑客事件：论坛提醒中本聪信息泄漏的回复被删除。
 
