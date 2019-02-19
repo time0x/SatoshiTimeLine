@@ -1,5 +1,5 @@
 <p align="center">
-In satoshi we trust !
+In Satoshi We Trust!
 </p>
 
 # 说明
@@ -14,7 +14,7 @@ In satoshi we trust !
 
 `Gavin Andresen` 比特币软件主要开发者，中本聪退隐后把开发权交给 [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen)
 
-`Jon Matonis` 是比特币基金会的董事和创始人之一 
+`Jon Matonis` 是比特币基金会的董事和创始人之一
 
 `ATO` 指澳大利亚税务局
 
@@ -44,12 +44,12 @@ In satoshi we trust !
 
 > BlackNet是一个实验性的“信息市场”，它允许各种信息的完全匿名的双向信息交换。据报道，美国当局已对此进行了调查，因为它存在于国防部研究实验室的网络中。
 
-**`1996-09-17`** CSW 和 阿桑奇早就政见不和 ([链接1](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html),[链接2](http://cypherpunks.venona.com/date/1996/09/msg01513.html))
+**`1996-09-17`** CSW 和阿桑奇早就政见不和 ([链接1](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html)，[链接2](http://cypherpunks.venona.com/date/1996/09/msg01513.html))
 
 > CSW 那时候和 Timothy C. May 在邮件列表有过交流，应该知道了 BlackNet
 
 **`1997-03-04`** Timothy C. May 文章《无法追踪的数字现金，信息市场和BlackNet》([Untraceable Digital Cash, Information Markets, and BlackNet
-](http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm)) 
+](http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm))
 
 **`1997-03-28`** Adam Back 发明Hashcash [来源](http://www.hashcash.org/papers/)
 
@@ -80,7 +80,7 @@ In satoshi we trust !
 
 # 2003
 
-**`2003-XX-XX`** 2003-2004 CSW 完成了网络与系统管理硕士（MNSA）- IT网络- 查尔斯特大学（CSU） 
+**`2003-XX-XX`** 2003-2004 CSW 完成了网络与系统管理硕士（MNSA）- IT网络- 查尔斯特大学（CSU）
 > [已经被查尔斯特大学向福布斯杂志印证](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794)
 
 **`2003-XX-XX`**  DK 和 CSW 在2003年一次在线密码论坛上相遇。两人都对网络安全，数字取证和金钱未来有着长期的兴趣
@@ -221,7 +221,7 @@ In satoshi we trust !
 
 > HAL 在[bitcointaik论坛](https://bitcointalk.org/index.php?topic=68121.0)中公布了0.1.0版本，[s3上的备份](https://satoshi.nakamotoinstitute.org/code/)，[github 保存的版本](https://github.com/trottier/original-bitcoin)
 
-> 2017-09-23 CSW 最早[公开表示](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)：[比特币原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有扑克游戏，其中有 poker(扑克), deal me out(出牌), fold(弃牌), call(跟注), raise(加注)等术语。
+> 2017-09-23 CSW 最早[公开表示](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)：[比特币原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有扑克游戏，其中有 poker(扑克)， deal me out(出牌)， fold(弃牌)， call(跟注)， raise(加注)等术语。
 
 **``2009-01-10``** CSW 博客宣称[发布比特币beta版本](https://web.archive.org/web/20140602022810/http://gse-compliance.blogspot.com.au/2009_01_04_archive.html)
 
@@ -276,7 +276,7 @@ In satoshi we trust !
 
 **``2011-02-14``** DK 在佛罗里达州成立了[W&K信息防御研究公司](https://www.manta.com/c/mr5pz3q/w-k-info-defense-research-llc)，[注册详情](http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=OfficerRegisteredAgentName&directionType=Initial&searchNameOrder=COINEXCHPTYLTD%20L110000199042&aggregateId=flal-l11000019904-dce79b55-176a-4442-93a7-3c8896316aa2&searchTerm=Coin-Exch%20Pty%20Ltd&listNameOrder=COINEXCHPTYLTD%20L110000199042)
 
-- 这个是csw 和 DK 一起建立的公司，用 DK 注册的，
+- 这个是CSW 和 DK 一起建立的公司，用 DK 注册的，
 - ATO 与 CSW 澳大利亚公司的代表的会议记录: CSW 与 DK 一起创办了W＆K Info Defense LLC（W＆K）。W&K公司经营比特币挖矿和软件开发/研究业务。
 - CSW 在09年创办 Information Defense Pty Ltd
 - 来源：[DK 亲戚起诉 CSW 案件卷宗](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)
@@ -284,7 +284,7 @@ In satoshi we trust !
 
 **``2011-04-11``** CSW 作为贡献者之一的著作[《官方（ISC）2®ISSMP®CBK®指南》](https://www.amazon.com/Official-Guide-CISSP-ISSMP-Press/dp/1420094432)出版
 
-> 亚马逊对于csw 的介绍佐证了他在查尔斯斯图尔特大学的诸多硕士学位和进行数字取证的讲课
+> 亚马逊对于CSW 的介绍佐证了他在查尔斯斯图尔特大学的诸多硕士学位和进行数字取证的讲课
 
 **``2011-04-23``** 中本聪发出最后一封邮件给 Gavin Andresen：“我已经转向做其他事情。比特币就放心交给加文和大家了。” [缺连接]()
 
@@ -309,26 +309,26 @@ In satoshi we trust !
 **``2012-10-11``** CSW 在英国注册一家公司：[C01N LTD](https://beta.companieshouse.gov.uk/company/08248988/filing-history)
 
 > 2014年4月10日	任命 Uyen T Nguyen女士为董事
-> 
-> 2014年4月14日	任命 David Kleiman先生为董事 
-> 
+>
+> 2014年4月14日	任命 David Kleiman先生为董事
+>
 > 2014年4月15日	终止任命 David Kleiman为董事
-> 
+>
 > 但是 DK 已经在13年去世！！
 
 **``2012-11-03``** CSW [《领土行为和僵尸网络的经济学》](https://ro.ecu.edu.au/ism/149/)收录于第10届澳大利亚信息安全管理会议论文集
 
 # 2013
 
-**``2013-04-XX``** 2013年4月初，CSW 与 DK 吵架，当时都缺钱，大量比特币并不好出售，[这是csw 最后一次与 DK 联系](https://medium.com/@craig_10243/the-fury-fb603e344d20)
+**``2013-04-XX``** 2013年4月初，CSW 与 DK 吵架，当时都缺钱，大量比特币并不好出售，[这是 CSW 最后一次与 DK 联系](https://medium.com/@craig_10243/the-fury-fb603e344d20)
 
 **``2013-04-26``** DK 被发现去世了 [警方勘查报告](https://assets.documentcloud.org/documents/2644004/INVESTIGATIVE-REPORT-13-0467.txt)
 
 **``2013-04-29``** CSW 发布了[缅怀 DK 视频](https://web.archive.org/web/20130509011754/https://www.youtube.com/watch?v=pGmZ7v3TB2Y)。
 
-**``2013-05-30``** CSW 注册了 [hotwirepe.com](https://domainbigdata.com/nj/gUU3kOJtEevLy9DnpdYUgw) 域名 
+**``2013-05-30``** CSW 注册了 [hotwirepe.com](https://domainbigdata.com/nj/gUU3kOJtEevLy9DnpdYUgw) 域名
 
-**``2013-06-XX``** CSW 创办了一家创业公司 Hotwire,用于建立 “Denariuz Bank”，第一家比特币银行
+**``2013-06-XX``** CSW 创办了一家创业公司 Hotwire, 用于建立 “Denariuz Bank”，第一家比特币银行
 
 - CSW 称 Denariuz将从其支持者那里得到超过[10万比特币用于银行资金池](https://www.businessinsider.com.au/aussie-technologists-are-opening-the-worlds-first-bitcoin-based-bank-this-year-2014-2)
 - Hotwire的失败归因于2014年5月[Mt Gox比特币交易所的解体](https://www.businessinsider.com.au/revealed-the-ato-hit-suspected-bitcoin-creator-craig-steven-wrights-company-with-a-1-7-million-penalty-2015-12)
@@ -370,7 +370,7 @@ In satoshi we trust !
  - 这个页面中显示2台超算属于 Tulip Trading(郁金香交易)
  - 这两台超算是 SGI 生产，但是[SGI否认是Cloudcroft从SGI购买](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)，CSW [解释主要原因](https://www.economist.com/briefing/2016/05/02/craig-steven-wright-claims-to-be-satoshi-nakamoto-is-he)是他在 2015-05-29 将 SGI 的设备与竞争对手Supermicro的设备结合在一起。次要的是保密，因为这台机器所被用来测试他关于如何改进比特币的想法。[链接2暂缺]()
  - CSW 在15年使用超算 发过 ITMASTER 的免费课程 [Free Short Course: Programming on Supercomputers](https://www.youtube.com/watch?v=cfoFFyypJxs)
- 
+
 **``2014-09-08``** 中本聪 satoshin@gmx.com 邮箱被自称黑客的人攻破 [链接1](https://web.archive.org/web/20180623222236/https://motherboard.vice.com/en_us/article/jp5dk8/the-satoshi-nakamoto-email-hacker-says-hes-negotiating-with-the-bitcoin-founder)，[链接2](https://bitcointalk.org/index.php?topic=775174.0)，[链接3](https://web.archive.org/web/20180601113854/https://pastebin.com/7gbPi8Qr)
 
 - 黑客在 p2pfoundation 论坛提醒中本聪[信息泄漏](https://web.archive.org/web/20180628142943/http://p2pfoundation.ning.com:80/forum/topics/bitcoin-open-source?xg_source=activity&id=2003008:Topic:9402&page=4)。
@@ -388,7 +388,7 @@ In satoshi we trust !
 
 **``2015-05-29``** CSW 将 C01N 和 Cloudcroft 所谓的旗舰超级计算机Tulip Trading 合并为一台高性能计算机 - [新的 C01N](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)
 
-**``2015-06-04``** CSW 和 Jon Matonis 在澳大利亚第一次[见面](https://medium.com/@jonmatonis/how-i-met-satoshi-96e85727dc5a)，Jon Matonis 感觉 csw 就是中本聪
+**``2015-06-04``** CSW 和 Jon Matonis 在澳大利亚第一次[见面](https://medium.com/@jonmatonis/how-i-met-satoshi-96e85727dc5a)，Jon Matonis 感觉 CSW 就是中本聪
 
 
 **``2015-07-15``** ITMastersCSU 官网的油管上传了 CSW 的超算课程：[免费短期课程：超级计算机编程](https://www.youtube.com/watch?v=cfoFFyypJxs)，有reddit 网友说这台超算是：C01N aka [缺链接]()
@@ -405,16 +405,16 @@ In satoshi we trust !
 - 2015-11 Gizmodo收到了一系列匿名电子邮件，这些文件都来自他的企业帐户
 - 被黑的电子邮件显示 CSW 使用电子邮件地址 satoshi@vistomail.com在2014年1月通过电子邮件发送给他的同事
 - CSW 试图联系澳大利亚参议员，从 satoshi@vistomail.com 询问比特币监管，试图说服澳大利亚政府将他的比特币持有作为货币，而不是一项需要征收更多税收的资产[链接1](https://www.documentcloud.org/documents/2644012-20140218-Transcript-Redacted.html)，[链接2](https://www.documentcloud.org/documents/2644013-20140226-Meeting-Minutes-Redacted.html)
-- 视频：Gizmodo在他们位于悉尼北部的郊区的 csw 家中到询问 csw的妻子 csw 在创造比特币方面的作用，他妻子起初只是笑着摇头，然后关门了。
+- 视频：Gizmodo在他们位于悉尼北部的郊区的 CSW 家中到询问 CSW的妻子 CSW 在创造比特币方面的作用，他妻子起初只是笑着摇头，然后关门了。
 - [郁金香信托](https://www.documentcloud.org/documents/2644014-Tulip-Trust-Redacted.html)曝光，其中有110w比特币。
- - 内有五个PGP密钥 - 用于通过电子邮件建立加密通信线路的文件 - 用于管理信任。在公共数据库中搜索这些密钥会发现一个属于csw，一个属于DK，两个属于Satoshi Nakamoto
+ - 内有五个PGP密钥 - 用于通过电子邮件建立加密通信线路的文件 - 用于管理信任。在公共数据库中搜索这些密钥会发现一个属于CSW，一个属于DK，两个属于Satoshi Nakamoto
  - 其中还显示 DK 同意他不会透露“satoshin@gmx.com帐户的来源
 - CSW 的前妻告诉 Gizmodo，她回忆起很多年前 CSW 正在研究比特币。她指出，他最初称之为“数字货币”。
 - 有人提出泄漏的邮件部分是[伪造](https://www.reddit.com/r/Bitcoin/comments/80fzhw/craig_s_wrights_email_to_dave_kleiman_is_provably/)
 
 **``2015-12-09``** 路透社报道[澳大利亚警方突袭了CSW 的家和办公室](https://www.reuters.com/article/us-australia-bitcoin-exclusive/australian-police-raid-sydney-home-of-reported-bitcoin-creator-idUSKBN0TS0AB20151209#AcrRFXxYvDzoDFkC.97)，[新闻视频](突袭新闻视频：https://www.youtube.com/watch?v=ekJU3JzulPQ)
 
-- 房子是csw租的，自称为房子主人的男子加里·海瑞斯告诉路透社csw有一个substantial computer system set-up，并且房子的后面安装了一个“三相”电源系统
+- 房子是CSW租的，自称为房子主人的男子加里·海瑞斯告诉路透社CSW有一个substantial computer system set-up，并且房子的后面安装了一个“三相”电源系统
 - 澳大利亚税务局表示，由于法律保密，它无法评论“任何个人或实体的税务事务”。
 - Hotwire 2014年的纳税申报表，以及约为340万美元的GST税收抵免。Hotwire的纳税申报表还可以获得550万美元的所得税退税，但Business Insider了解到这一点尚未由ATO发布。[链接](https://www.businessinsider.com.au/revealed-the-ato-hit-suspected-bitcoin-creator-craig-steven-wrights-company-with-a-1-7-million-penalty-2015-12)，[Hotwire清算报告](：https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
 
@@ -432,7 +432,7 @@ In satoshi we trust !
 
 **``2016-03-10``** CSW 公司 Hotwire 的[清算报告被上传](报告：https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
 
-- 通过ATO 可以看出 csw 的税务问题很大
+- 通过ATO 可以看出 CSW 的税务问题很大
 - McGrath Nicol的管理人员写道：“ATO对Hotwire征收1,716,608.00美元的罚款
 - 报告显示：CSW 有一个家庭信托： Wright Family Trust
 - 报告显示：CSW 当时除了郁金香信托外，应该还有巨量比特币，约19W枚
@@ -514,7 +514,7 @@ In satoshi we trust !
 
 # 2018
 
-**``2018-02-26``** [Dvaid Kleiman 的亲戚告 CSW 案](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)，[卷宗1](下载地址：https://zh.scribd.com/document/372465601/Complaint#download&from_embed),[卷宗2](https://www.morrisoncohen.com/siteFiles/files/2018_02_14%20-%20Kleiman%20v_%20Wright.pdf)
+**``2018-02-26``** [Dvaid Kleiman 的亲戚告 CSW 案](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)，[卷宗1](下载地址：https://zh.scribd.com/document/372465601/Complaint#download&from_embed)，[卷宗2](https://www.morrisoncohen.com/siteFiles/files/2018_02_14%20-%20Kleiman%20v_%20Wright.pdf)
 
 > 等待结案，再分析证据。
 
@@ -534,6 +534,10 @@ In satoshi we trust !
 
 # 2019
 
+**``2019-02-08``** CSW 发博文称比特币和 Metanet 的设计始于1998年，并说明这与 Tim May 的无政府版的不同。CSW 表示对看到比特币被无政府主义用于丝绸之路等犯罪市场表示遗憾，被在文末说我曾是中本聪。原文：[Careful what you wish for…](https://medium.com/@craig_10243/careful-what-you-wish-for-c7c2f19e6c4f)，译文：[比特币创世录一：事与愿违](https://mp.weixin.qq.com/s/O0MlhUFUmJaIdywN0KaSrQ)
+
+**``2019-02-09``** CSW 继续发文揭开比特币世界里不为人知的黑暗一面，并称自己现在有了足够的勇气坚持到底。他最后指出比特币（BSV）发行于2009年，BTC则通过空投的方式发行于2017年。原文：[The story of Bitcoin, continued](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)，译文：[比特币创世录二：亡羊补牢](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
+
 **``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称自己曾经化名中本聪](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF中译](https://mp.weixin.qq.com/s/kQuUt_HoaenKTmh16hE7bg)
 
-> CSW 用中本聪的化名完成一项工程，该工程始于1997年，作为澳大利亚工业计划的一部分，相关文件已向澳政府提交并注册，该计划初始命名为 Blacknet，后改名 MetaNet。
+> CSW 用中本聪的化名完成一项工程，该工程始于1997年，作为澳大利亚工业计划的一部分，相关文件已向澳政府提交并注册，该计划初始命名为 BlackNet，后改名 MetaNet。
