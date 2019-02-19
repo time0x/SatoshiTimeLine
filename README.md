@@ -24,7 +24,7 @@ In satoshi we trust !
 
 # ～2003
 
-**`1985-XX-XX`**  1985年开始在 KMart 从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
+**`1985-XX-XX`** CSW 1985年开始在 KMart 从事IT工作，随后加入澳大利亚证券交易所（ASX）[来源一](https://www.computerworld.com.au/article/print/188871/aussie_achieves_world_first_audit_certification/)，[CSW蔑视法庭案件](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/nsw/NSWCA/2005/368.html?stem=0&synonyms=0&query=%22craig%20wright%22)
 
 **`1989-XX-XX`** CSW 开始昆士兰大学了 B.Eng/BSci 双学位 [来源](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
 
@@ -145,9 +145,9 @@ In satoshi we trust !
 
 **`2007-XX-XX`**  CSW 和 DK 合著《CHFI官方学习指南（考试312-49）》出版 [来源一](https://www.sciencedirect.com/book/9781597491976/the-official-chfi-study-guide-exam-312-49#book-description)，[来源二](https://www.amazon.com/Official-Varsalone-Timothy-Syngress-Paperback/dp/B00E2RGHUE/)
 
-**`2007-XX-XX`**  中本聪：[自2007年开始设计比特币](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617)
+**`2007-XX-XX`**  中本聪：[自2007年开始设计比特币](https://bitcointalk.org/index.php?topic=195.msg1617#msg1617)，更多的工作是设计而不是编码。
 
-> 花了大量时间在研究设计比特币，那时候已经考虑未来探索方向：托管交易，保税合同，第三方仲裁，多方签名等
+> 花了大量时间在研究设计比特币，那时候已经考虑未来探索方向：托管交易，保税合同，第三方仲裁，多方签名等。
 
 **`2007-06-XX`**  美国联邦政府对 [ e-Gold](https://en.wikipedia.org/wiki/E-gold) 提出指控，e-Gold是一家出售可兑换黄金的数字货币的公司。
 
@@ -179,13 +179,15 @@ In satoshi we trust !
 
 **`2008-03-06`**  CSW 在08年就受到别人的[诽谤与质疑](https://web.archive.org/web/20151123033848/http://gse-compliance.blogspot.com/2008/03/lies-damned-lies-and-statistics-of.html)
 
-**``2008-03-12``** CSW 和 DK 的关于诽谤邮件往来 [主题：法律在互联网上诽谤的困难](https://seclists.org/basics/2008/Mar/144)，[DK 的回复：](https://seclists.org/basics/2008/Mar/147)
+**``2008-03-12``** CSW 和 DK 的关于诽谤邮件往来 [主题：法律在互联网上诽谤的困难](https://seclists.org/basics/2008/Mar/144)，[DK 的回复](https://seclists.org/basics/2008/Mar/147)
 
 > CSW 使用的邮件：Craig.Wright @bdo.com.au
 
 **``2008-03-12``** 15年 gizmodo 泄密事件中 CSW 给 DK 的一封邮件：[需要DK帮助他关于 bitcoin 的工作](https://i.kinja-img.com/gawker-media/image/upload/knlyk7dpjqucpmiojhs8.png)
 
-- [网友质疑：同一天使用的邮箱：craig.wright@information-defense.com](https://www.reddit.com/r/Bitcoin/comments/80fzhw/craig_s_wrights_email_to_dave_kleiman_is_provably/)
+> 网友质疑：[同一天使用的邮箱：craig.wright@information-defense.com](https://www.reddit.com/r/Bitcoin/comments/80fzhw/craig_s_wrights_email_to_dave_kleiman_is_provably/)
+
+**``2008-04-04``** CSW 被 SANS 技术研究所[评为 Security Heroes](https://archive.li/h357s)
 
 **``2008-04-17``** CSW 发表论文：[互联网中介责任的影响](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2953929)
 
@@ -475,7 +477,7 @@ In satoshi we trust !
 
 > 我相信我能做到。我相信我可以把隐姓埋名的日子抛在脑后。但是，随着本周事件的发展，以及我准备发表获得最早私钥的证明，我崩溃了。我没有勇气。我不能。
 
-> 谣言一开始，我的资格和性格就受到了攻击。 当这些指控被证明是假的时候，新的指控已经开始了。 我现在知道我不够坚强，不能承受这一切。
+> 谣言一开始，我就受到了多方的攻击。当这些指控被证明是假的时候，新的指控已经开始了。我现在知道我不够坚强，不能承受这一切。
 
 > 我知道这个弱点会对那些支持我的人造成巨大的伤害，特别是对Jon Matonis 和 Gavin Andresen。我只能希望他们的荣誉和信誉不会因我的行动而受到不可弥补的损害。 他们没有受到欺骗，但我知道，世界现在永远不会相信这一点。 我只能说对不起。
 
@@ -507,6 +509,8 @@ In satoshi we trust !
 **``2017-09-21``** CSW 在Bitkan的“塑造未来”Blockchain全球峰会 - 香港技术会议上发表[演讲](https://www.youtube.com/watch?v=GUg2mocV9TI)
 
 **``2017-09-23``** CSW 最早公开表示比特币[原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有[扑克游戏](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)
+
+**``2017-11-30``** CSW 以 nChain 首席科学家的身份展示了他的学术文凭和证书，装满了一辆手推车。[视频](https://www.youtube.com/watch?v=QiK34QicusI)
 
 # 2018
 
