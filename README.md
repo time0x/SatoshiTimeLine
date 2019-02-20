@@ -328,6 +328,8 @@ In Satoshi We Trust!
 
 # 2012
 
+**``2012-XX-XX``** CSW 开始为比特币节点做微服务架构。当时是叫 iDaemon，现在是 Terranode。[链接1](https://www.yours.org/content/a-call-to-arms-cac97203528f)，[2017-11-06 的论文中使用过 iDaemon](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)
+
 **``2012-10-11``** CSW 在英国注册一家公司：[C01N LTD](https://beta.companieshouse.gov.uk/company/08248988/filing-history)
 
 > 2014年4月10日	任命 Uyen T Nguyen女士为董事
@@ -450,6 +452,8 @@ In Satoshi We Trust!
 
 # 2016
 
+**``2016-03-XX``** CSW 完成了比特币节点 iDaemon 项目(现在是 Terranode)，在等待 BU 的独立测试验证。[链接](https://web.archive.org/web/20190220100623/https://twitter.com/ProfFaustus/status/935493955457900546)
+
 **``2016-03-XX``** Jon Matonis 说3月下旬有个私下证明会，[CSW 会私下展示签名](http://themonetaryfuture.blogspot.com/2016/05/how-i-met-satoshi.html)
 
 **``2016-03-10``** CSW 公司 Hotwire 的[清算报告被上传](报告：https://web.archive.org/web/20160310185210/http://www.mcgrathnicol.com/app/uploads/D14-140526-Hotwire439AReport-BFK.pdf)
@@ -526,11 +530,25 @@ In Satoshi We Trust!
 
 - 比特币是否可以抵御量子攻击？CSW：“比特币使用双哈希算法，未使用的地址非常安全。所以只使用一次地址。而且使用量子计算机攻击比特币代价巨大”
 
-**``2017-06-30``** CSW 在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY&list=PLT6LGqh34WMBUFn-NBpiT1UQpd-xnpDkc&index=21)(必看)，[内容翻译](http://8btc.com/thread-63899-1-1.html)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
+**``2017-06-30``** CSW 在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[内容翻译](http://8btc.com/thread-63899-1-1.html)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
 
-**``2017-09-21``** CSW 在Bitkan的“塑造未来”Blockchain全球峰会 - 香港技术会议上发表[演讲](https://www.youtube.com/watch?v=GUg2mocV9TI)
+> 关于比特币是图灵完备，SegWit 和闪电网络破坏了比特币，小世界网络，扩容等等。
+
+**``2017-07-13``** CSW 在荷兰阿姆斯特丹举行的 iGaming 执行会议上演讲：[Bitcoin's Smart Future](https://www.youtube.com/watch?v=KKrQ0lnj-60)
+
+> 演讲内容就是当时未公布的 MetaNet。
+
+**``2017-09-21``** CSW 在塑造未来 Blockchain 全球峰会-香港技术会议上发表[演讲：门限签名](https://www.youtube.com/watch?v=GUg2mocV9TI)
 
 **``2017-09-23``** CSW 最早公开表示比特币[原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有[扑克游戏](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)
+
+**``2017-10-14``** nchain 和 BU 使用 CSW 之前开发的 iDaemon 节点软件在 Gigablock Testnet上挖出了第一块 1GB 的块。[链接](https://www.trustnodes.com/2017/10/14/first-1gb-bitcoin-block-mined-testnet)
+
+**``2017-11-06``** CSW 发表[《调查使用比特币区块链作为世界互联网商务的主要基础设施的潜力》](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)论文。
+
+> CSW 在比特币内部测试网络，100个节点上测试了1G大小的区块，共380GB。
+
+> 使用的 CSW 的 iDaemon 节点软件(后来的 Terranode)。
 
 **``2017-11-30``** CSW 以 nChain 首席科学家的身份展示了他的学术文凭和证书，装满了一辆手推车。[视频](https://www.youtube.com/watch?v=QiK34QicusI)
 
@@ -541,6 +559,12 @@ In Satoshi We Trust!
 > 等待结案，再分析证据。
 
 **``2018-03-XX``** Jon Matonis 离开 nchain，因为[不同意为比特币现金全力以赴的策略](https://web.archive.org/web/20190124065610/https://twitter.com/jonmatonis/status/994472382973792257)。
+
+**``2018-03-25``** CSW 在日本东京的 Satoshi 愿景会议演讲[比特币网络拓扑：小世界网络](https://www.youtube.com/watch?v=HrVtC9r0sTU)
+
+**``2018-05-09``** CSW 在[埃克塞特大学的演讲](https://youtu.be/eXmPE5hb6aA)，关于比特币、比特币交易、经济、p2p。
+
+**``2018-05-23``** CSW 在首届 CoinGeek 大会上演讲关于原子交换：[比特币的原子时代：令牌化和原子交换将如何改变数字商务](https://www.youtube.com/watch?v=uuoVipRWd_s)。
 
 **``2018-06-28``** 2018-06-28 之后的某个时间：14年黑客事件：论坛提醒中本聪信息泄漏的回复被删除。
 
@@ -556,7 +580,7 @@ In Satoshi We Trust!
 
 # 2019
 
-**``2019-02-08``** CSW 发博文称比特币和 Metanet 的设计始于1998年，并说明这与 Tim May 的无政府版的不同。CSW 表示对看到比特币被无政府主义用于丝绸之路等犯罪市场表示遗憾，被在文末说我曾是中本聪。原文：[Careful what you wish for…](https://medium.com/@craig_10243/careful-what-you-wish-for-c7c2f19e6c4f)，译文：[比特币创世录一：事与愿违](https://mp.weixin.qq.com/s/O0MlhUFUmJaIdywN0KaSrQ)
+**``2019-02-08``** CSW 发博文称比特币和 MetaNet 的设计始于1998年，并说明这与 Tim May 的无政府版的不同。CSW 表示对看到比特币被无政府主义用于丝绸之路等犯罪市场表示遗憾，被在文末说我曾是中本聪。原文：[Careful what you wish for…](https://medium.com/@craig_10243/careful-what-you-wish-for-c7c2f19e6c4f)，译文：[比特币创世录一：事与愿违](https://mp.weixin.qq.com/s/O0MlhUFUmJaIdywN0KaSrQ)
 
 **``2019-02-09``** CSW 继续发文揭开比特币世界里不为人知的黑暗一面，并称自己现在有了足够的勇气坚持到底。他最后指出比特币（BSV）发行于2009年，BTC则通过空投的方式发行于2017年。原文：[The story of Bitcoin, continued](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)，译文：[比特币创世录二：亡羊补牢](https://mp.weixin.qq.com/s/BwfQhoeGqUB58dV7G4y36w)
 
