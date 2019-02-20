@@ -205,9 +205,16 @@ In Satoshi We Trust!
 
 **``2008-11-01``** CSW 一篇 [博客文章](https://web.archive.org/web/20140307084448/http://gse-compliance.blogspot.com.au/2008/11/entropy.html)
 公布了自己的 PGP 公钥。
+
 > 公钥使用 pgpdump 之后显示出与satoshin@vistomail.com 有联系，详见[2015-12-08](#)
 
-**``2008-11-09``** 比特币项目在开源项目社区资源SourceForge.net上注册。(无法确认准确性)
+**``2008-11-02``** 中本聪认为只有矿工才需要运行网络节点。并预测了矿池和矿场的出现。[链接](http://www.metzdowd.com/pipermail/cryptography/2008-November/014815.html)
+
+> 起初，大多数用户会运行网络节点，但随着网络增长超过某一点，拥有专门硬件的服务器群的专业人士(即后来出现的矿池)运行网络节点。
+
+>  一个服务器农场(即后来出现的矿场)只需要在网络上有一个节点(即矿池)，而网络中的其余部分与该节点连接。
+
+**``2008-11-09``** 比特币项目在开源项目社区资源SourceForge.net上注册。
 
 **``2008-11-17``** 中本聪在加密邮件列表中表示：之前的1年半一直在完善比特币代码 [暂缺]()
 
@@ -239,7 +246,7 @@ In Satoshi We Trust!
 
 **``2009-02-11``** 中本聪[注册P2P基金会网站](http://p2pfoundation.ning.com/profile/SatoshiNakamoto)
 
-**``2009-08-30``** 中本聪把比特币代码从sourceforge转到 [github](https://github.com/bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898)，版本为：BitCoin v0.1.5 ALPHA
+**``2009-08-30``** 中本聪把比特币代码从 sourceforge 转到 [github](https://github.com/bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898)，版本为：BitCoin v0.1.5 ALPHA
 
 **``2009-11-19``** 中本聪注册 [bitcointalk](https://bitcointalk.org/index.php?action=profile;u=3) 论坛
 
@@ -257,6 +264,19 @@ In Satoshi We Trust!
 
 **``2010-07-27``** [中本聪 github 账号作为 bitcoin 项目作者出现](https://github.com/bitcoin/bitcoin/commits/master?before=b72c787dc8f77dfeeab3774e9d84f03a066ff32e+19476)
 ，暂时不清楚最初头像，但在之后的某个时间[头像修改为 DK](https://github.com/satoshinnakamoto)。
+
+**``2010-08-04``** 中本聪认为[比特币目前不适用于非常小的微支付](https://bitcointalk.org/index.php?topic=287.msg7524#msg7524)
+
+**``2010-08-05``** 中本聪讨论[了未来小额支付的好处和前景](https://bitcointalk.org/index.php?topic=287.msg7687#msg7687)
+
+> 虽然我不认为比特币现在适用于小额支付，但随着存储空间和带宽成本的持续下降，它最终会成为现实。
+
+> 如果比特币大规模流行起来，那么到那个时候小额支付已经普及了。
+
+> 另一种使它们变得更加实用的方法是，如果我实现了只有客户端的模式，并且网络节点的数量合并成为数量较少的专业服务器群。无论你需要多大规模的小额支付，最终都是可行的。我认为在5到10年内，带宽和存储将变得微不足道。
+
+> 免费交易是很好的，如果人们不滥用它，我们可以保持这种方式。
+
 
 **``2010-10-XX``** CSW 的第一次婚姻于[2010年10月结束](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
 
@@ -366,7 +386,7 @@ In Satoshi We Trust!
 - 视频：[Gizmodo记者访问DeMorgan的办公室](https://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692)
 - DeMorgan 旗下 控制 Cloudcroft
  - 它控制着世界500强中的[两台超级计算机](https://www.forbes.com/sites/thomasbrewster/2015/12/11/bitcoin-creator-satoshi-craig-wright-lies-hoax/#19b66a676794) - 排名世界第15位的 [CO1N](https://web.archive.org/web/20150717182621/http://top500.org/system/178468) 和排名第327位的[Sukuriputo Okane](https://web.archive.org/web/20170704110353/https://www.top500.org/system/178514)。
- - 之后 CSW 有几篇论文中提到了这台26W核心的超算[暂缺链接]()
+ - CSW 的[《调查使用比特币区块链作为世界互联网商务的主要基础设施的潜力》](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)论文中介绍了这台26W+核心的超算
  - 这个页面中显示2台超算属于 Tulip Trading(郁金香交易)
  - 这两台超算是 SGI 生产，但是[SGI否认是Cloudcroft从SGI购买](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)，CSW [解释主要原因](https://www.economist.com/briefing/2016/05/02/craig-steven-wright-claims-to-be-satoshi-nakamoto-is-he)是他在 2015-05-29 将 SGI 的设备与竞争对手Supermicro的设备结合在一起。次要的是保密，因为这台机器所被用来测试他关于如何改进比特币的想法。[链接2暂缺]()
  - CSW 在15年使用超算 发过 ITMASTER 的免费课程 [Free Short Course: Programming on Supercomputers](https://www.youtube.com/watch?v=cfoFFyypJxs)
