@@ -252,6 +252,8 @@ In Satoshi We Trust!
 
 **``2009-11-22``** 中本聪论坛[第一帖](https://bitcointalk.org/index.php?topic=5.0)
 
+**``2009-11-25``** 中本聪[建议每个比特币地址只用一次](https://bitcointalk.org/index.php?topic=8.msg34#msg34)
+
 **``2009-11-26``** 感恩节 DK 告诉 Ira(DK弟弟)，他正在和一个富有的外国人一起创造“数字货币”，也就是 CSW。[来源：DK亲戚起诉 CSW 案件卷宗](https://www.coindesk.com/satoshi-craig-wright-sued-10-billion)
 
 # 2010
@@ -306,7 +308,7 @@ In Satoshi We Trust!
 
 > 亚马逊对于CSW 的介绍佐证了他在查尔斯斯图尔特大学的诸多硕士学位和进行数字取证的讲课
 
-**``2011-04-23``** 中本聪发出最后一封邮件给 Gavin Andresen：“我已经转向做其他事情。比特币就放心交给加文和大家了。” [缺连接]()
+**``2011-04-23``** 中本聪发给 Mike Hearn 的邮件中表示：“我已经转向做其他事情。比特币就放心交给 Gavin 和大家了。” [链接](https://plan99.net/~mike/satoshi-emails/thread5.html)
 
 **``2011-04-27``** Gavin Andresen 发帖他将在6月份在美国情报界的新兴技术会议上[向 CIA 发表关于比特币的演讲](https://bitcointalk.org/?topic=6652.0)。具体时间是6月14日在中央情报局总部，兰利弗吉尼亚州。[它不向公众开放，会议仅针对美国情报界。](https://bitcointalk.org/index.php?topic=6652.msg146198#msg146198)
 
