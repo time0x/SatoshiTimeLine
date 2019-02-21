@@ -550,7 +550,7 @@ In Satoshi We Trust!
 
 > 使用的 CSW 的 iDaemon 节点软件(后来的 Terranode)。
 
-**``2017-11-30``** CSW 以 nChain 首席科学家的身份展示了他的学术文凭和证书，装满了一辆手推车。[视频](https://www.youtube.com/watch?v=QiK34QicusI)
+**``2017-11-30``** CSW 以 nChain 首席科学家的身份展示了他的学术文凭和证书，装满了一辆手推车。[视频](https://www.youtube.com/watch?v=QiK34QicusI)。
 
 # 2018
 
