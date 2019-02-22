@@ -16,6 +16,8 @@ In Satoshi We Trust!
 
 `Jon Matonis` 是比特币基金会的董事和创始人之一
 
+`Timothy C. May` 是Cypherpunks邮件列表的联合创始人
+
 `ATO` 指澳大利亚税务局
 
 `BlackNet` 是一个实验性的“信息市场”，它允许各种信息的完全匿名的双向信息交换
@@ -308,7 +310,7 @@ In Satoshi We Trust!
 
 > 亚马逊对于CSW 的介绍佐证了他在查尔斯斯图尔特大学的诸多硕士学位和进行数字取证的讲课
 
-**``2011-04-23``** 中本聪发给 Mike Hearn 的邮件中表示：“我已经转向做其他事情。比特币就放心交给 Gavin 和大家了。” [链接](https://plan99.net/~mike/satoshi-emails/thread5.html)
+**``2011-04-23``** 中本聪发给 Mike Hearn 的邮件中表示：“我已经转向做其他事情。比特币就放心交给 Gavin 和大家了。” [链接1](https://plan99.net/~mike/satoshi-emails/thread5.html)，[链接2](https://bitcointalk.org/index.php?topic=145850.msg1558053#msg1558053)
 
 **``2011-04-27``** Gavin Andresen 发帖他将在6月份在美国情报界的新兴技术会议上[向 CIA 发表关于比特币的演讲](https://bitcointalk.org/?topic=6652.0)。具体时间是6月14日在中央情报局总部，兰利弗吉尼亚州。[它不向公众开放，会议仅针对美国情报界。](https://bitcointalk.org/index.php?topic=6652.msg146198#msg146198)
 
@@ -374,6 +376,8 @@ In Satoshi We Trust!
 
 **``2014-02-12``** CSW 计划[今年开设第一家基于比特币的银行](https://www.businessinsider.com.au/aussie-technologists-are-opening-the-worlds-first-bitcoin-based-bank-this-year-2014-2)，但是当时澳大利亚ATO尚未澄清它将如何处理与比特币相关的商品及服务税
 
+**``2014-03-07``** 中本聪在 p2pfoundation 论坛回帖：["I am not Dorian Nakamoto."](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186)
+
 **``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=4GuqlQvFYJo)，[视频2](https://www.youtube.com/watch?v=d0ttVAPKgTA)，[视频3](https://www.youtube.com/watch?v=yB2YVJg6f1s)，[中译](https://v.youku.com/v_show/id_XMzk1MTU0OTMwOA==.html?spm=a2hzp.8244740.0.0)。CSW 视频中描述的即为18年宣布的 MetaNet
 
 **``2014-08-20``** ATO裁定，对于资本利得税而言，[加密货币应被视为资产而非货币](https://www.abc.net.au/news/2014-08-20/bitcoin-will-not-be-taxed-as-money-ato-says/5683974)。所以 CSW 无法继续在澳大利亚建造比特币商业帝国。
@@ -395,7 +399,7 @@ In Satoshi We Trust!
  - 这两台超算是 SGI 生产，但是[SGI否认是Cloudcroft从SGI购买](https://www.zdnet.com/article/sgi-denies-links-with-alleged-bitcoin-founder-craig-wright/#ftag=RSSbaffb68)，CSW [解释主要原因](https://www.economist.com/briefing/2016/05/02/craig-steven-wright-claims-to-be-satoshi-nakamoto-is-he)是他在 2015-05-29 将 SGI 的设备与竞争对手Supermicro的设备结合在一起。次要的是保密，因为这台机器所被用来测试他关于如何改进比特币的想法。[链接2暂缺]()
  - CSW 在15年使用超算 发过 ITMASTER 的免费课程 [Free Short Course: Programming on Supercomputers](https://www.youtube.com/watch?v=cfoFFyypJxs)
 
-**``2014-09-08``** 中本聪 satoshin@gmx.com 邮箱被自称黑客的人攻破 [链接1](https://web.archive.org/web/20180623222236/https://motherboard.vice.com/en_us/article/jp5dk8/the-satoshi-nakamoto-email-hacker-says-hes-negotiating-with-the-bitcoin-founder)，[链接2](https://bitcointalk.org/index.php?topic=775174.0)，[链接3](https://web.archive.org/web/20180601113854/https://pastebin.com/7gbPi8Qr)
+**``2014-09-08``** 中本聪 satoshin@gmx.com 邮箱被自称黑客的人攻破 [链接1](https://web.archive.org/web/20180623222236/https://motherboard.vice.com/en_us/article/jp5dk8/the-satoshi-nakamoto-email-hacker-says-hes-negotiating-with-the-bitcoin-founder)，[链接2](https://bitcointalk.org/index.php?topic=775174.0)，[链接3](https://web.archive.org/web/20180601113854/https://pastebin.com/7gbPi8Qr)，[链接4](https://mineforeman.com/2014/09/09/warning-do-not-download-bitcoin-from-sourceforge/)
 
 - 黑客在 p2pfoundation 论坛提醒中本聪[信息泄漏](https://web.archive.org/web/20180628142943/http://p2pfoundation.ning.com:80/forum/topics/bitcoin-open-source?xg_source=activity&id=2003008:Topic:9402&page=4)。
 - 2018-06-28 之后的某个时间这条回复被删除
@@ -550,7 +554,7 @@ In Satoshi We Trust!
 
 > 使用的 CSW 的 iDaemon 节点软件(后来的 Terranode)。
 
-**``2017-11-30``** CSW 以 nChain 首席科学家的身份展示了他的学术文凭和证书，装满了一辆手推车。[视频](https://www.youtube.com/watch?v=QiK34QicusI)。
+**``2017-11-30``** CSW 以 nChain 首席科学家的身份展示了他的学术文凭和证书，装满了一辆手推车。[视频](https://www.youtube.com/watch?v=QiK34QicusI)。[证书PDF](https://github.com/Time02/SatoshiTimeLine/blob/master/CSW's%20academic%20diplomas%20and%20certificates.pdf)
 
 # 2018
 
