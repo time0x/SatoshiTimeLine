@@ -564,7 +564,7 @@ In Satoshi We Trust!
 
 **``2018-03-XX``** Jon Matonis 离开 nchain，因为[不同意为比特币现金全力以赴的策略](https://web.archive.org/web/20190124065610/https://twitter.com/jonmatonis/status/994472382973792257)。
 
-**``2018-03-25``** CSW 在日本东京的 Satoshi 愿景会议演讲[比特币网络拓扑：小世界网络](https://www.youtube.com/watch?v=HrVtC9r0sTU)
+**``2018-03-25``** CSW 在日本东京的 Satoshi 愿景会议演讲[比特币网络拓扑：小世界网络](https://www.youtube.com/watch?v=HrVtC9r0sTU)，[中文字幕](https://weibo.com/tv/v/HkS4pzBkk?fid=1034:4349741379615663)
 
 **``2018-05-09``** CSW 在[埃克塞特大学的演讲](https://youtu.be/eXmPE5hb6aA)，关于比特币、比特币交易、经济、p2p。
 
