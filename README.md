@@ -534,9 +534,11 @@ In Satoshi We Trust!
 
 - 比特币是否可以抵御量子攻击？CSW：“比特币使用双哈希算法，未使用的地址非常安全。所以只使用一次地址。而且使用量子计算机攻击比特币代价巨大”
 
-**``2017-06-30``** CSW 在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[内容翻译](http://8btc.com/thread-63899-1-1.html)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
+**``2017-06-30``** CSW 复出。在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[中译](https://v.youku.com/v_show/id_XNDEwOTQ3MTc5Mg==.html?spm=a2h3j.8428770.3416059.1)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
 
-> 关于比特币是图灵完备，SegWit 和闪电网络破坏了比特币，小世界网络，扩容等等。
+> 内容关于小世界网络，图灵完备，脚本系统；批判了 RBF，隔离见证，社区氛围；阐述了比特币经济模型，应该以用户为王，需要发展二层应用，改进钱包便利性而不是折腾底层协议想着加新功能。
+
+> CSW 同时表示澳洲税务局和 Blockstream 走的很近，并向他们询问了 CSW 在2015年5月的各种事情。与澳洲税务局有关的人已经被拘捕。CSW 称他的税务已经没有问题。
 
 **``2017-07-13``** CSW 在荷兰阿姆斯特丹举行的 iGaming 执行会议上演讲：[Bitcoin's Smart Future](https://www.youtube.com/watch?v=KKrQ0lnj-60)
 
