@@ -423,6 +423,8 @@ In Satoshi We Trust!
 
 **``2015-10-29``** CSW 在内华达州拉斯维加斯举行的比特币投资者大会上[发表演说](https://www.youtube.com/watch?v=LdvQTwjVmrE)
 
+**``2015-12-08``** CSW 正在研究大区块的传播。[链接](https://web.archive.org/web/20151208225155if_/http://4.bp.blogspot.com/-ESwErMzB3bQ/VFKY7TeVHVI/AAAAAAAAI54/DtiR4T1H_vE/s1600/tulip1.png)
+
 **``2015-12-08``**  wired.com 首次报道了 [CSW 可能是中本聪](https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/)
 
 > 第一个指向赖特的证据出现在11月中旬，当时一位与赖特关系密切的匿名消息人士开始将文件泄露给Gwern Branwen，他是一名假名的独立安全研究员和黑暗网络分析师。Branwen将这些文件提供给WIRED。
@@ -537,6 +539,8 @@ In Satoshi We Trust!
 **``2017-06-30``** CSW 复出。在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[中译](https://v.youku.com/v_show/id_XNDEwOTQ3MTc5Mg==.html?spm=a2h3j.8428770.3416059.1)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
 
 > 内容关于小世界网络，图灵完备，脚本系统；批判了 RBF，隔离见证，社区氛围；阐述了比特币经济模型，应该以用户为王，需要发展二层应用，改进钱包便利性而不是折腾底层协议想着加新功能。
+
+> CSW 表示自己记录了从2009年1月开始到现在的比特币全网数据
 
 > CSW 同时表示澳洲税务局和 Blockstream 走的很近，并向他们询问了 CSW 在2015年5月的各种事情。与澳洲税务局有关的人已经被拘捕。CSW 称他的税务已经没有问题。
 
