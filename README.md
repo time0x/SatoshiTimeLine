@@ -381,7 +381,7 @@ In Satoshi We Trust!
 **``2014-06-2``** CCTV NEWS [采访查尔斯特大学研究员 CSW 关于黑客大战
 ](https://www.youtube.com/watch?v=fAyWT3nljBI)
 
-**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=4GuqlQvFYJo)，[视频2](https://www.youtube.com/watch?v=d0ttVAPKgTA)，[视频3](https://www.youtube.com/watch?v=yB2YVJg6f1s)，[中译](https://v.youku.com/v_show/id_XMzk1MTU0OTMwOA==.html?spm=a2hzp.8244740.0.0)。CSW 视频中描述的即为18年宣布的 MetaNet
+**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=gYskRI0ynAM)，[视频2](https://www.youtube.com/watch?v=HwopmmsNeCs)，[视频3](https://www.youtube.com/watch?v=N1yNQSW8jGA)，[中译](https://v.youku.com/v_show/id_XMzk1MTU0OTMwOA==.html?spm=a2hzp.8244740.0.0)。CSW 视频中描述的即为18年宣布的 MetaNet
 
 **``2014-08-20``** ATO裁定，对于资本利得税而言，[加密货币应被视为资产而非货币](https://www.abc.net.au/news/2014-08-20/bitcoin-will-not-be-taxed-as-money-ato-says/5683974)。所以 CSW 无法继续在澳大利亚建造比特币商业帝国。
 
