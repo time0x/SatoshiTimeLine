@@ -536,6 +536,10 @@ In Satoshi We Trust!
 
 - 比特币是否可以抵御量子攻击？CSW：“比特币使用双哈希算法，未使用的地址非常安全。所以只使用一次地址。而且使用量子计算机攻击比特币代价巨大”
 
+**``2017-05-26``** CSW 被老聂拉入和平饭店QQ群(这个群当时聚齐了国内的大矿工)，尝试说服中国矿工抵制 core 的 Segwit。[2017年5月CSW的QQ聊天记录（Quas翻译)](https://shimo.im/docs/rRhTWayFzRURhUaq/read)
+
+> CSW 面对群里某些人的冷嘲热讽很冷静很有礼貌。遗憾的是，当时的矿工目光短浅，意识不到 Segwit 的巨大危害，这次游说以失败告终。CSW 想建立一个抵制 Segwit 的矿池的计划，也因为没有矿工的支持而失败。（当时中国矿工占据了算力的70%以上）
+
 **``2017-06-30``** CSW 复出。在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[中译](https://v.youku.com/v_show/id_XNDEwOTQ3MTc5Mg==.html?spm=a2h3j.8428770.3416059.1)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
 
 > 内容关于小世界网络，图灵完备，脚本系统；批判了 RBF，隔离见证，社区氛围；阐述了比特币经济模型，应该以用户为王，需要发展二层应用，改进钱包便利性而不是折腾底层协议想着加新功能。
@@ -553,6 +557,10 @@ In Satoshi We Trust!
 **``2017-09-23``** CSW 最早公开表示比特币[原始代码](https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp)中有[扑克游戏](https://web.archive.org/web/20190216023418/https://twitter.com/ProfFaustus/status/911621111531663361/)
 
 **``2017-10-14``** nchain 和 BU 使用 CSW 之前开发的 iDaemon 节点软件在 Gigablock Testnet上挖出了第一块 1GB 的块。[链接](https://www.trustnodes.com/2017/10/14/first-1gb-bitcoin-block-mined-testnet)
+
+**``2017-10-24``** CSW 出席瑞士比特币协会举办的 meetup 活动，发表了演讲 [Hording, equity, and the end of debt and credit](https://www.youtube.com/watch?v=74XhvbXx_pY&feature=youtu.be)，附录：[CSW 答网友问](https://drive.google.com/file/d/0B1X9aq8p_7wDQkIyZmFmU0w2OTQ/view)，[来源](https://www.meetup.com/ja-JP/Bitcoin-Meetup-Switzerland/events/243862586/)
+
+> 本次演讲有点专业，希望金融专业有看懂的补充一下
 
 **``2017-11-06``** CSW 发表[《调查使用比特币区块链作为世界互联网商务的主要基础设施的潜力》](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3065857)论文。
 
@@ -597,3 +605,8 @@ In Satoshi We Trust!
 **``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称自己曾经化名中本聪](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF中译](https://mp.weixin.qq.com/s/kQuUt_HoaenKTmh16hE7bg)
 
 > CSW 用中本聪的化名完成一项工程，该工程始于1997年，作为澳大利亚工业计划的一部分，相关文件已向澳政府提交并注册，该计划初始命名为 BlackNet，后改名 MetaNet。
+
+**``2019-05-22``** 美国版权局批准了 CSW 关于白皮书和比特币0.1版本代码的版权注册。版权号为：[TXu002136996](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=8&ti=1,8&Search_Arg=bitcoin&Search_Code=TALL&CNT=25&PID=34qy-lok8olJDw0vTxrVk4fptQUhA&SEQ=20190521074729&SID=1) 和 [TX0008708058](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=TX0008708058&Search_Code=REGS&PID=4iZGzn-zLAex8Iv0CeW0HvQpgXb&SEQ=20190527105901&CNT=25&HIST=1)
+
+> 如果你不相信，请到法院起诉。
+
