@@ -155,6 +155,10 @@ In Satoshi We Trust!
 
 > 政府认为该项目启用了洗钱和儿童色情制品，因为用户无需提供彻底的身份证明。该公司的所有者因经营无牌转账业务而被判有罪，而首席执行官则被判处数月软禁。
 
+**`2007-10-30`**  CSW 法学硕士论文开题部分 [ 互联网法中定义的支付提供商和中介机构](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3438946) 
+
+> 发表于2019年8月21日
+
 **`2007-11-28`**  CSW 在bolg中写到正在研究[一种以货币自动化的方法](https://web.archive.org/web/20151208225056/http://gse-compliance.blogspot.com/2007_11_25_archive.html)。待印证。
 
 **`2007-12-XX`**  CSW 加入联合教会（新南威尔士州）信托协会有限公司联合金融服务受托人。([a trustee of the church](https://web.archive.org/web/20080719231045/http://www.unitingfinancial.com.au/resource/summer07-08_Lr.pdf))，[来源二](https://web.archive.org/web/20151208225303/http://gse-compliance.blogspot.com/2008_03_02_archive.html)
@@ -191,9 +195,17 @@ In Satoshi We Trust!
 
 **``2008-04-04``** CSW 被 SANS 技术研究所[评为 Security Heroes](https://archive.li/h357s)
 
-**``2008-04-17``** CSW 发表论文：[互联网中介责任的影响](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2953929)
+**``2008-04-17``** CSW 撰写法学硕士论文(于 2007-10-30 开题)：[互联网中介责任的影响](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2953929)。**其中提到了比特币的雏形**。
 
-> 内容：[关于比特币节点合规的研究](https://medium.com/@craig_10243/the-false-lure-of-anonymity-110a35088979)
+> - 发表于 2017年4月22日。
+>
+> - 其中第 26 页节选：Peer to peer (P2P) payment systems, such as PayPal,
+>     emerged allowing individuals to receive transactions directly,bypassing merchants
+>     and also act as a means of consolidating payment methods by providing a mechanism to interact with various banks and payment card institutions directly.
+> 
+>     提到了之前所有的电子现金都没有绕开传统的交易方式，真正的电子现金应该是允许个人绕过传统的中间商直接点对点交易支付系统，并且通过提供一种直接与各种银行和支付卡机构进行交互的机制，还可以作为合并支付方式的一种手段。
+>
+> - 相关内容：[关于比特币节点合规的研究](https://medium.com/@craig_10243/the-false-lure-of-anonymity-110a35088979)
 
 **``2008-07-25``** CSW 著作出版  [《IT监管和标准合规手册》](https://books.google.com/books?id=RizmpbOHvf4C&dq=Auditing+Unix+and+Linux+Craig+Steven+Wright&hl=zh-CN&source=gbs_navlinks_s)，[The IT Regulatory and Standards Compliance Handbook](https://www.bokkilden.no/matematikk-for-oekonomer-og-forretningssystemer/the-it-regulatory-and-standards-compliance-handbook-craig-s-wright/produkt.do?produktId=3028230)
 
