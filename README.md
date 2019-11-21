@@ -157,6 +157,7 @@ In Satoshi We Trust!
 
 **`2007-10-30`**  CSW 法学硕士论文开题部分 [ 互联网法中定义的支付提供商和中介机构](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3438946) 
 
+> **本篇开题论文和比特币白皮书的思想如出一辙**。[中译](https://media.weibo.cn/article?id=2309404407137404059933)
 > 发表于2019年8月21日
 
 **`2007-11-28`**  CSW 在bolg中写到正在研究[一种以货币自动化的方法](https://web.archive.org/web/20151208225056/http://gse-compliance.blogspot.com/2007_11_25_archive.html)。待印证。
