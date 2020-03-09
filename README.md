@@ -395,7 +395,7 @@ In Satoshi We Trust!
 **``2014-06-2``** CCTV NEWS [采访查尔斯特大学研究员 CSW 关于黑客大战
 ](https://www.youtube.com/watch?v=fAyWT3nljBI)
 
-**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=gYskRI0ynAM)，[视频2](https://www.youtube.com/watch?v=HwopmmsNeCs)，[视频3](https://www.youtube.com/watch?v=N1yNQSW8jGA)，[中译](https://v.youku.com/v_show/id_XMzk1MTU0OTMwOA==.html?spm=a2hzp.8244740.0.0)。CSW 视频中描述的即为18年宣布的 MetaNet
+**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=gYskRI0ynAM)，[视频2](https://www.youtube.com/watch?v=HwopmmsNeCs)，[视频3](https://www.youtube.com/watch?v=N1yNQSW8jGA)，[中译](https://www.bilibili.com/video/av87397216)。CSW 视频中描述的即为18年宣布的 MetaNet
 
 **``2014-08-20``** ATO裁定，对于资本利得税而言，[加密货币应被视为资产而非货币](https://www.abc.net.au/news/2014-08-20/bitcoin-will-not-be-taxed-as-money-ato-says/5683974)。所以 CSW 无法继续在澳大利亚建造比特币商业帝国。
 
@@ -554,7 +554,7 @@ In Satoshi We Trust!
 
 > CSW 面对群里某些人的冷嘲热讽很冷静很有礼貌。遗憾的是，当时的矿工目光短浅，意识不到 Segwit 的巨大危害，这次游说以失败告终。CSW 想建立一个抵制 Segwit 的矿池的计划，也因为没有矿工的支持而失败。（当时中国矿工占据了算力的70%以上）
 
-**``2017-06-30``** CSW 复出。在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[中译](https://v.youku.com/v_show/id_XNDEwOTQ3MTc5Mg==.html?spm=a2h3j.8428770.3416059.1)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
+**``2017-06-30``** CSW 复出。在荷兰比特币未来会议上[演讲](https://www.youtube.com/watch?v=CGualxBcQCY)(必看)，[中译](https://www.bilibili.com/video/av52703490)，[ppt翻译](https://zhuanlan.zhihu.com/p/27782496)。
 
 > 内容关于小世界网络，图灵完备，脚本系统；批判了 RBF，隔离见证，社区氛围；阐述了比特币经济模型，应该以用户为王，需要发展二层应用，改进钱包便利性而不是折腾底层协议想着加新功能。
 
@@ -592,9 +592,9 @@ In Satoshi We Trust!
 
 **``2018-03-XX``** Jon Matonis 离开 nchain，因为[不同意为比特币现金全力以赴的策略](https://web.archive.org/web/20190124065610/https://twitter.com/jonmatonis/status/994472382973792257)。
 
-**``2018-03-25``** CSW 在日本东京的 Satoshi 愿景会议演讲[比特币网络拓扑：小世界网络](https://www.youtube.com/watch?v=HrVtC9r0sTU)，[中文字幕](https://weibo.com/tv/v/HkS4pzBkk?fid=1034:4349741379615663)
+**``2018-03-25``** CSW 在日本东京的 Satoshi 愿景会议演讲[比特币网络拓扑：小世界网络](https://www.youtube.com/watch?v=HrVtC9r0sTU)，[中文字幕](https://www.bilibili.com/video/av52728578)
 
-**``2018-05-09``** CSW 在[埃克塞特大学的演讲](https://youtu.be/eXmPE5hb6aA)，关于比特币、比特币交易、经济、p2p。
+**``2018-05-09``** CSW 在[埃克塞特大学的演讲](https://youtu.be/eXmPE5hb6aA)，关于比特币、比特币交易、经济、p2p。[中译](https://www.bilibili.com/video/av52869660)
 
 **``2018-05-23``** CSW 在首届 CoinGeek 大会上演讲关于原子交换：[比特币的原子时代：令牌化和原子交换将如何改变数字商务](https://www.youtube.com/watch?v=uuoVipRWd_s)。
 
@@ -602,9 +602,11 @@ In Satoshi We Trust!
 
 > 账户本人或论坛管理员才可以删除
 
-**``2018-08-07``** CSW 谈论到我谈论比特币的历史，图灵完整性，比特币的人工智能，加密货币和闪电网络的法律含义，以及更多。[视频](https://www.youtube.com/watch?v=oA_q1OC-Aos)
+**``2018-08-07``** CSW 谈论到我谈论比特币的历史，图灵完整性，比特币的人工智能，加密货币和闪电网络的法律含义，以及更多。[视频](https://www.youtube.com/watch?v=oA_q1OC-Aos)，[中译](https://www.bilibili.com/video/av52754950)
 
 **``2018-08-07``** CSW 关于图灵完整性，采矿激励和自私采矿的[采访](https://www.youtube.com/watch?v=whbzIGML1qY)
+
+**``2018-11-02``** CSW 于香港演讲：矿工为何应支持中本聪愿景[中译](https://www.bilibili.com/video/av87251993)
 
 **``2018-11-29``** 中本聪在P2P基金会网站更新状态：["nour"](https://web.archive.org/web/20181212002627/http://p2pfoundation.ning.com/profiles/status/show?id=2003008:Status:69295)，nour 在阿拉伯语中是光明的意思。
 
@@ -618,9 +620,24 @@ In Satoshi We Trust!
 
 **``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称自己曾经化名中本聪](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF中译](https://mp.weixin.qq.com/s/kQuUt_HoaenKTmh16hE7bg)
 
+**``2019-04-04``** CSW 与Charles Miller的访谈：比特币不是加密货币 [中译](https://www.bilibili.com/video/av87476374)
+
 > CSW 用中本聪的化名完成一项工程，该工程始于1997年，作为澳大利亚工业计划的一部分，相关文件已向澳政府提交并注册，该计划初始命名为 BlackNet，后改名 MetaNet。
 
 **``2019-05-22``** 美国版权局批准了 CSW 关于白皮书和比特币0.1版本代码的版权注册。版权号为：[TXu002136996](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=8&ti=1,8&Search_Arg=bitcoin&Search_Code=TALL&CNT=25&PID=34qy-lok8olJDw0vTxrVk4fptQUhA&SEQ=20190521074729&SID=1) 和 [TX0008708058](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=TX0008708058&Search_Code=REGS&PID=4iZGzn-zLAex8Iv0CeW0HvQpgXb&SEQ=20190527105901&CNT=25&HIST=1)
 
 > 如果你不相信，请到法院起诉。
 
+**``2019-05-30``**  CSW 在CoinGeek多伦多大会上探讨 R-PUZZLEs, METANET, 和 ATTESTATION：[暂缺中译](https://www.bilibili.com/video/av87990095)
+
+**``2019-05-30``**  CSW 在CoinGeek多伦多大会与Jimmy的炉边谈话：[中译](https://www.bilibili.com/video/av87984041)
+
+**``2019-06-22``**  CSW 在哥伦比亚比特币国际博览会上演讲：[中译](https://www.bilibili.com/video/av87698396)
+
+**``2019-12-06``** CSW 在清华大学的演讲：点对点系统的历史：[中译上](https://www.bilibili.com/video/av87199171)，[中译下](https://www.bilibili.com/video/av87392321)
+
+# 2020
+
+**``2020-02-20``**  BitcoinSV CoinGeek 伦敦大会第一天全集：[中文同声传译](https://www.bilibili.com/video/av90652238)
+
+**``2020-02-20``**  BitcoinSV CoinGeek 伦敦大会第二天全集：[中文同声传译](https://www.bilibili.com/video/av90796760)
