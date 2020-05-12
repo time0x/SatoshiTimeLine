@@ -298,6 +298,9 @@ In Satoshi We Trust!
 
 **``2010-10-XX``** CSW 的第一次婚姻于[2010年10月结束](https://medium.com/@craig_10243/the-story-of-bitcoin-continued-2f1ec78ba38b)
 
+**``2010-11-01``** CSW 发表论文[《The not so Mythical IDS Man-Month: Or Brooks and the rule of information security》](https://web.archive.org/web/20110726195407/http://www.issre2010.org/content/fast-abstract-papers#1)，来源2[《第四届信息系统安全计算情报国际会议论文集》](https://books.google.com/books?id=IFwvAqxXf3wC&pg=PA205&lpg=PA205&dq=The+not+so+Mythical+IDS+Man-Month:+Or+Brooks+and+the+rule+of+information+security&source=bl&ots=jUzK9WfO-o&sig=ACfU3U3oWqoRSPhwmdt0ixtBA7DPu19uPw&hl=zh-CN&sa=X&ved=2ahUKEwj90PTQk63pAhVHB50JHV97AwQQ6AEwAHoECBsQAQ#v=onepage&q=The%20not%20so%20Mythical%20IDS%20Man-Month%3A%20Or%20Brooks%20and%20the%20rule%20of%20information%20security&f=false)。
+
+
 **``2010-11-30``** CSW 发表[《开发安全嵌入式软件的经济学》](https://ro.ecu.edu.au/ism/102/)，发表于第8届澳大利亚信息安全管理会议论文集。
 
 **``2010-12-11``** 维基解密支持比特币捐赠，[中本聪发帖：认为不是个好时候](https://bitcointalk.org/index.php?topic=2216.msg29280#msg29280)
