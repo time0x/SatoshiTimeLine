@@ -398,7 +398,7 @@ In Satoshi We Trust!
 **``2014-06-2``** CCTV NEWS [采访查尔斯特大学研究员 CSW 关于黑客大战
 ](https://www.youtube.com/watch?v=fAyWT3nljBI)
 
-**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.youtube.com/watch?v=gYskRI0ynAM)，[视频2](https://www.youtube.com/watch?v=HwopmmsNeCs)，[视频3](https://www.youtube.com/watch?v=N1yNQSW8jGA)，[中译](https://www.bilibili.com/video/av87397216)。CSW 视频中描述的即为18年宣布的 MetaNet
+**``2014-07-09``** CSW 在比特币墨尔本大会上接受采访[视频1](https://www.bilibili.com/video/BV1sz4y1y7Z3)，[视频2](https://www.bilibili.com/video/BV1yt4y1e7Li)，[视频3](https://www.bilibili.com/video/BV1Xy4y1z7HX)。CSW 视频中描述的即为18年宣布的 MetaNet
 
 **``2014-08-20``** ATO裁定，对于资本利得税而言，[加密货币应被视为资产而非货币](https://www.abc.net.au/news/2014-08-20/bitcoin-will-not-be-taxed-as-money-ato-says/5683974)。所以 CSW 无法继续在澳大利亚建造比特币商业帝国。
 
@@ -644,3 +644,31 @@ In Satoshi We Trust!
 **``2020-02-20``**  BitcoinSV CoinGeek 伦敦大会第一天全集：[中文同声传译](https://www.bilibili.com/video/av90652238)
 
 **``2020-02-20``**  BitcoinSV CoinGeek 伦敦大会第二天全集：[中文同声传译](https://www.bilibili.com/video/av90796760)
+
+**``2020-08-29``**  在中国 Devcon 中，CSW 与 Steve Shadders 的炉边谈话：[中译](https://www.bilibili.com/video/BV1Ep4y1i7Wy)
+
+# 2021
+
+**``2021-01-21``**  [CSW  正在对比特币白皮书实施版权主张](https://coingeek.com/craig-wright-is-enforcing-copyright-claim-on-the-bitcoin-whitepaper/)
+> CSW 的律师向目前在其网站上托管比特币白皮书的五个方发出了侵犯版权的通知。这些团体控制和运营网站 bitcoin.org，bitcoin.com，bitcoincore.org。
+
+> 同时，CSW 把比特币白皮书托管到 [自己博客](https://craigwright.net/bitcoin-white-paper.pdf)，与 2008 年版本不同的是修改了署名：
+
+```
+                      		Dr Craig S Wright
+                      	craigswright@acm.org
+                      Charles Sturt University
+```
+
+**``2021-01-21``**   bitcoincore.org 网站删除全部白皮书。[链接1](https://github.com/bitcoin-core/bitcoincore.org/pull/740)，[链接2](https://github.com/bitcoin-core/bitcoincore.org/commit/c131308cb9cf3538ba9db04a3002a76e6f334f62)
+
+**``2021-01-21``**   bitcoin.org 域名所有者 Cobra 拒绝删除白皮书。[链接1](https://bitcoin.org/en/posts/regarding-csw)
+
+> Cobra 主张比特币白皮书已包含在原始比特币项目文件中 ，该项目由中本聪（Satoshi Nakamoto）根据MIT许可明确发布
+>
+> 但事实是白皮书先于比特币软件发布，没有 MIT 许可 🤷‍
+
+**``2021-01-22``**   CSW 律师团队致信 squarecrypto.org 网站建议删除全部白皮书。[链接1](https://coingeek.com/square-is-next-in-line-for-craig-wrights-copyright-enforcement-action/)，[信件 PDF](https://coingeek.com/wp-content/uploads/2021/01/Letter-before-Action-Square_Crypto-21.01.2021.pdf)
+
+> Square Crypto 是“独立”机构，致力于为 BTC 和 Lightning Network 开发开源项目，并为开发人员和组织提供资助。它资助的项目包括 Chris Belcher 的 [CoinSwap](https://en.bitcoin.it/wiki/CoinSwap)
+
