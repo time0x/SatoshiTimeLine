@@ -623,9 +623,18 @@ In Satoshi We Trust!
 
 **``2019-02-15``** CFTC(美国商品期货交易委员会)[向公众征询虚拟货币的知识和技术的意见](https://www.cftc.gov/LawRegulation/FederalRegister/final-rules/2018-27167.html)。CSW 回复[称自己曾经化名中本聪](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF文件中表示并且愿意宣誓作证](https://comments.cftc.gov/PublicComments/ViewComment.aspx?id=61969&SearchText=)。[PDF中译](https://mp.weixin.qq.com/s/kQuUt_HoaenKTmh16hE7bg)
 
+**``2019-03-29``**  CSW 的律师对 [Hodlonaut](https://twitter.com/hodlonaut) （人称太空猫）以“高度诽谤性和辱骂性推文”骚扰和诽谤 CSW 为名发了法律文件，[链接](https://coingeek.com/craig-wright-legal-fight-crypto-critics/)
+
+**``2019-04-12``**  CSW 的律师对比特币播客主持人 Peter McCormack，以太坊联合创始人Vitalik Buterin 和加密货币博客 Chepicap 以“高度诽谤性和辱骂性推文”骚扰和诽谤 CSW 为名发了律法律文件，[链接](https://coingeek.com/craig-wright-legal-fight-crypto-critics/)
+
+> [法律文件附件1](https://coingeek.com/wp-content/uploads/2019/04/2019-04-12_Peter-McCormack_WRI2.1.jpg)，[法律文件附件2](https://coingeek.com/wp-content/uploads/2019/04/2019-04-12_Chepicap_WRI2.1.jpg)，[法律文件附件3](https://coingeek.com/wp-content/uploads/2019/04/2019-04-12_Vitalik-and-Ethereum_WRI2.1.jpg)
+
+**``2019-04-16``** CSW 对 Blockstream 首席执行官 Adam Back 发送法律文件，针对诽谤要求道歉，以保护自己免受骚扰。 [链接](https://coingeek.com/craig-wright-defamation-suit-adam-back-blockstream/)
+
 **``2019-04-04``** CSW 与Charles Miller的访谈：比特币不是加密货币 [中译](https://www.bilibili.com/video/av87476374)
 
 > CSW 用中本聪的化名完成一项工程，该工程始于1997年，作为澳大利亚工业计划的一部分，相关文件已向澳政府提交并注册，该计划初始命名为 BlackNet，后改名 MetaNet。
+
 
 **``2019-05-22``** 美国版权局批准了 CSW 关于白皮书和比特币0.1版本代码的版权注册。版权号为：[TXu002136996](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=8&ti=1,8&Search_Arg=bitcoin&Search_Code=TALL&CNT=25&PID=34qy-lok8olJDw0vTxrVk4fptQUhA&SEQ=20190521074729&SID=1) 和 [TX0008708058](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=TX0008708058&Search_Code=REGS&PID=4iZGzn-zLAex8Iv0CeW0HvQpgXb&SEQ=20190527105901&CNT=25&HIST=1)
 
@@ -635,19 +644,43 @@ In Satoshi We Trust!
 
 **``2019-05-30``**  CSW 在CoinGeek多伦多大会与Jimmy的炉边谈话：[中译](https://www.bilibili.com/video/av87984041)
 
+**``2019-06-19``** 众多诽谤案件进展：[链接](https://coingeek.com/craig-wright-libel-suits-crypto-critics/)
+
+> Hodlonaut(太空猫，真名 MAGNUS'HODLONAUT'GRANATH) ：他的律师已经收到索赔律师文件，CSW  宣布打算在英国提起诉讼，解决管辖权的问题。
+> 
+> PETER MCCORMACK ：他的律师已经开始准备辩护。
+> 
+> Adam Back（Blockstream 的 CEO）：CSW 的律师已经向他在马耳他的个人住所以及他在当地注册的两家公司寄法律文件，但到目前为止，还没有他收到这些信件的确认。
+>
+> ROGER VER ：ROGER 的律师在挑战案件的管辖权问题
+> 
+> Vitalik Buterin：向新加坡居民提供法律文件必须获得英国高等法院的许可，CSW 的律师目前正在准备申请书以确保获得该法院的许可。
+
 **``2019-06-22``**  CSW 在哥伦比亚比特币国际博览会上演讲：[中译](https://www.bilibili.com/video/av87698396)
+
+**``2019-07-31``**  尼克林法官裁定，英格兰和威尔士显然不是 CSW 博士提起针对 Roger Ver 诽谤的诉讼的最适当司法管辖区：[中译](https://www.bilibili.com/video/av87698396)
+> 诉讼要求是对 Bitcoin.com YouTube 频道上一段视频的回应，该视频中 Ver 宣布 CSW 是骗子和有欺诈行为。
+
+> 该视频是在 Roger Ver  意识到发布诽谤性材料是他所在的日本的民事和刑事犯罪之后被删除的。
 
 **``2019-12-06``** CSW 在清华大学的演讲：点对点系统的历史：[中译上](https://www.bilibili.com/video/av87199171)，[中译下](https://www.bilibili.com/video/av87392321)
 
 # 2020
 
+**``2020-01-08``**  Roger Ver 诽谤案：英国上诉法院已批准 CSW 对高等法院的管辖权裁决提出上诉。[链接](https://coingeek.com/craig-wright-vs-roger-ver-csw-granted-permission-to-appeal/)
+
 **``2020-02-20``**  BitcoinSV CoinGeek 伦敦大会第一天全集：[中文同声传译](https://www.bilibili.com/video/av90652238)
 
 **``2020-02-20``**  BitcoinSV CoinGeek 伦敦大会第二天全集：[中文同声传译](https://www.bilibili.com/video/av90796760)
 
+
+**``2020-07-30``**  CSW 与 Peter McCormack 诽谤案件更新：[法院驳回了 Peter 延迟案件的要求，并向 CSW 支付1.85万英镑的申请费和随后的聆讯费用](https://coingeek.com/peter-mccormack-ordered-to-pay-craig-wright-18-5k-as-court-rejects-attempts-to-delay-libel-case/)
+
 **``2020-08-29``**  在中国 Devcon 中，CSW 与 Steve Shadders 的炉边谈话：[中译](https://www.bilibili.com/video/BV1Ep4y1i7Wy)
 
 # 2021
+
+**``2021-01-15``**  CSW  在与 Hodlonaut 的诽谤案件更新：[诉讼可以在英格兰进行](https://coingeek.com/craig-wright-wins-landmark-case-in-english-court-of-appeal-defamation-claim-vs-hodlonaut-to-proceed-in-england/)，[裁决卷宗](https://coingeek.com/wp-content/uploads/2021/01/Wright-v-Granath-Judgment-2021_01152021.pdf)
 
 **``2021-01-21``**  [CSW  正在对比特币白皮书实施版权主张](https://coingeek.com/craig-wright-is-enforcing-copyright-claim-on-the-bitcoin-whitepaper/)
 > CSW 的律师向目前在其网站上托管比特币白皮书的五个方发出了侵犯版权的通知。这些团体控制和运营网站 bitcoin.org，bitcoin.com，bitcoincore.org。
@@ -655,9 +688,9 @@ In Satoshi We Trust!
 > 同时，CSW 把比特币白皮书托管到 [自己博客](https://craigwright.net/bitcoin-white-paper.pdf)，与 2008 年版本不同的是修改了署名：
 
 ```
-                      		Dr Craig S Wright
-                      	craigswright@acm.org
-                      Charles Sturt University
+Dr Craig S Wright
+craigswright@acm.org
+Charles Sturt University
 ```
 
 **``2021-01-21``**   bitcoincore.org 网站删除全部白皮书。[链接1](https://github.com/bitcoin-core/bitcoincore.org/pull/740)，[链接2](https://github.com/bitcoin-core/bitcoincore.org/commit/c131308cb9cf3538ba9db04a3002a76e6f334f62)
@@ -666,7 +699,8 @@ In Satoshi We Trust!
 
 > Cobra 主张比特币白皮书已包含在原始比特币项目文件中 ，该项目由中本聪（Satoshi Nakamoto）根据MIT许可明确发布
 >
-> 但事实是白皮书先于比特币软件发布，没有 MIT 许可 🤷‍
+> 但事实是白皮书先于比特币软件发布，并且合并到软件库中时候，属于 Research Paper，不是软件的一部分，就没有被 MIT licensed 覆盖。
+> [http://sourceforge.net/projects/bitcoin/files/](https://web.archive.org/web/20091127010808/http://sourceforge.net/projects/bitcoin/files/)
 
 **``2021-01-22``**   CSW 律师团队致信 squarecrypto.org 网站建议删除全部白皮书。[链接1](https://coingeek.com/square-is-next-in-line-for-craig-wrights-copyright-enforcement-action/)，[信件 PDF](https://coingeek.com/wp-content/uploads/2021/01/Letter-before-Action-Square_Crypto-21.01.2021.pdf)
 
