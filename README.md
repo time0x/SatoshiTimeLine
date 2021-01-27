@@ -264,7 +264,11 @@ In Satoshi We Trust!
 
 **``2009-08-30``** 中本聪把比特币代码从 sourceforge 转到 [github](https://github.com/bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898)，版本为：BitCoin v0.1.5 ALPHA
 
-**``2009-11-19``** 中本聪注册 [bitcointalk](https://bitcointalk.org/index.php?action=profile;u=3) 论坛
+**``2009-11-19``** 中本聪开设 [http://www.bitcoin.org/smf/index.php](https://web.archive.org/web/20110401171747/http://www.bitcoin.org/smf/index.php) 论坛，后来的 bitcointalk 是复制这个网站，[来源](https://craigwright.net/blog/bitcoin-blockchain-tech/satoshi-never-posted-on-bitcointalk/)。
+
+> 因为 bitcointalk 是复刻网站，具体时间有待考证
+> 之后转移网站到 [http://forum.bitcoin.org](https://web.archive.org/web/20110518165023/http://forum.bitcoin.org/)
+> 2011-06-24 被 core 的域名  bitcointalk 复刻，成为大众熟知的论坛
 
 **``2009-11-22``** 中本聪论坛[第一帖](https://bitcointalk.org/index.php?topic=5.0)
 
@@ -338,6 +342,9 @@ In Satoshi We Trust!
 > GICSR 是由私营部门领导的非营利性全球网络安全+研究所
 
 **``2011-06-20``** Gavin Andresen 公布了 2011-06-14 在 CIA(美国中央情报局)发表的[演讲的PDF](https://bitcointalk.org/index.php?topic=6652.msg251755#msg251755)。
+
+**``2011-06-24``** Core 的某些人 [注册了 bitcointalk.org](https://www.whois.com/whois/bitcointalk.org)，复刻了中本聪建立的论坛。并且修改了中本聪的部分发言。[来源](https://craigwright.net/blog/bitcoin-blockchain-tech/satoshi-never-posted-on-bitcointalk/)。
+
 
 **``2011-08-09``** CSW 在 [The Conversation](theconversation.com) 上发表文章：[LulzSec, Anonymous … freedom fighters or the new face of evil?](https://theconversation.com/lulzsec-anonymous-freedom-fighters-or-the-new-face-of-evil-2605#comment_6159)。这是 CSW 公开提到比特币最早记录。
 
